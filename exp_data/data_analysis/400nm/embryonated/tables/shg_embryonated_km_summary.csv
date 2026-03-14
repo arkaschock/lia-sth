@@ -1,0 +1,6 @@
+group,n_total,n_events,n_censored,median_survival_h
+Control (pooled),97,15,82,inf
+400-SHG-10mW-5s,36,29,7,362.2
+400-SHG-10mW-10s,36,31,5,257.8
+400-SHG-15mW-5s,38,37,1,182.5
+400-SHG-15mW-10s,38,38,0,8.2

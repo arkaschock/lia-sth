@@ -1,0 +1,13 @@
+group,flag,n,pct
+Control (pooled),death_after_hatch,9,9.3
+Control (pooled),exit_egg,1,1.0
+Control (pooled),terminal_twitching,0,0.0
+800-pulsed-330mW-120s,death_after_hatch,4,16.7
+800-pulsed-330mW-120s,exit_egg,0,0.0
+800-pulsed-330mW-120s,terminal_twitching,0,0.0
+800-pulsed-330mW-60s,death_after_hatch,0,0.0
+800-pulsed-330mW-60s,exit_egg,0,0.0
+800-pulsed-330mW-60s,terminal_twitching,0,0.0
+800-cw-330mW-120s,death_after_hatch,0,0.0
+800-cw-330mW-120s,exit_egg,0,0.0
+800-cw-330mW-120s,terminal_twitching,0,0.0

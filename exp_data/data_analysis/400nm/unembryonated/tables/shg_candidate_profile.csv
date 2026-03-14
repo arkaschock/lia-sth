@@ -1,0 +1,3 @@
+label,wl_nm,regime,power_mW,exposure_s,n_total,n_valid_non_degenerated,n_any_stage_time,n_t_2c,n_t_4c,n_t_bean,n_t_move,include_in_analysis
+shg_10mW_2s,400,shg,10,2,36,35,21,21,18,17,16,True
+shg_10mW_5s,400,shg,10,5,37,37,0,0,0,0,0,False

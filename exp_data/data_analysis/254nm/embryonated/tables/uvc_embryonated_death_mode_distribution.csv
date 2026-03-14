@@ -1,0 +1,19 @@
+treatment,n_total_analyzed,n,pct,Terminal phenotype
+UVC-6W-600s,39,0,0.0,Vacuolated (apoptosis-like)
+UVC-6W-600s,39,39,100.0,Lytic (necrosis-like)
+UVC-6W-600s,39,0,0.0,Indeterminate/hatched
+UVC-6W-300s,35,0,0.0,Vacuolated (apoptosis-like)
+UVC-6W-300s,35,35,100.0,Lytic (necrosis-like)
+UVC-6W-300s,35,0,0.0,Indeterminate/hatched
+UVC-6W-180s,36,0,0.0,Vacuolated (apoptosis-like)
+UVC-6W-180s,36,35,97.2,Lytic (necrosis-like)
+UVC-6W-180s,36,1,2.8,Indeterminate/hatched
+UVC-6W-120s,36,0,0.0,Vacuolated (apoptosis-like)
+UVC-6W-120s,36,36,100.0,Lytic (necrosis-like)
+UVC-6W-120s,36,0,0.0,Indeterminate/hatched
+UVC-6W-60s,36,0,0.0,Vacuolated (apoptosis-like)
+UVC-6W-60s,36,33,91.7,Lytic (necrosis-like)
+UVC-6W-60s,36,1,2.8,Indeterminate/hatched
+UVC-6W-30s,39,0,0.0,Vacuolated (apoptosis-like)
+UVC-6W-30s,39,37,94.9,Lytic (necrosis-like)
+UVC-6W-30s,39,2,5.1,Indeterminate/hatched

@@ -1,0 +1,7 @@
+group,n_total,n_events,n_censored,median_survival_h
+Control (pooled),97,15,82,inf
+UVC-6W-300s,35,35,0,95.5
+UVC-6W-180s,36,36,0,142.8
+UVC-6W-120s,36,36,0,164.9
+UVC-6W-60s,36,34,2,268.5
+UVC-6W-30s,39,39,0,282.5

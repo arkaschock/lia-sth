@@ -1,0 +1,5 @@
+label,system,wl_nm,power_mW,exposure_s,n_total,n_valid_non_degenerated,n_any_stage_time,n_t_2c,n_t_4c,n_t_bean,n_t_move,include_in_analysis
+uvc_6W_2s,uvc,254,6,2,36,31,31,31,31,31,31,True
+uvc_6W_5s,uvc,254,6,5,36,33,29,29,29,27,27,True
+uvc_6W_10s,uvc,254,6,10,36,27,13,13,13,10,10,False
+uvc_6W_30s,uvc,254,6,30,38,38,4,4,2,0,0,False

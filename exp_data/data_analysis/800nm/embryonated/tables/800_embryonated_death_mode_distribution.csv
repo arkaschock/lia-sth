@@ -1,0 +1,10 @@
+treatment,n_total_analyzed,n,pct,Terminal phenotype
+800-pulsed-330mW-120s,24,2,8.3,Vacuolated (apoptosis-like)
+800-pulsed-330mW-120s,24,17,70.8,Lytic (necrosis-like)
+800-pulsed-330mW-120s,24,4,16.7,Indeterminate/hatched
+800-pulsed-330mW-60s,31,0,0.0,Vacuolated (apoptosis-like)
+800-pulsed-330mW-60s,31,2,6.5,Lytic (necrosis-like)
+800-pulsed-330mW-60s,31,4,12.9,Indeterminate/hatched
+800-cw-330mW-120s,22,0,0.0,Vacuolated (apoptosis-like)
+800-cw-330mW-120s,22,1,4.5,Lytic (necrosis-like)
+800-cw-330mW-120s,22,0,0.0,Indeterminate/hatched

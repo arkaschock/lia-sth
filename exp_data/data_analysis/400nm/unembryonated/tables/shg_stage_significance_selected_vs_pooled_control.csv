@@ -1,0 +1,5 @@
+stage,omnibus_test,omnibus_p,pairwise_test,comparison,statistic,p_raw,p_holm,significant_0.05,sig,n_shg_10mW_2s,normality_p_shg_10mW_2s,n_pooled_control,normality_p_pooled_control
+2-cell,Kruskal-Wallis,6.806230172739009e-12,Mann-Whitney U,shg_10mW_2s vs pooled_control,1915.0,6.982646125848453e-12,6.982646125848453e-12,True,***,21,0.0021623134460950033,93,0.0891283186095881
+4-cell,Kruskal-Wallis,1.215208722517983e-10,Mann-Whitney U,shg_10mW_2s vs pooled_control,1641.5,1.2476452580862634e-10,1.2476452580862634e-10,True,***,18,0.0009666142962957098,93,0.3258517292560847
+Bean,Kruskal-Wallis,1.6731116269412741e-09,Mann-Whitney U,shg_10mW_2s vs pooled_control,1518.5,1.7164808762174675e-09,1.7164808762174675e-09,True,***,17,0.02210221514155992,93,0.017839186486735027
+Motion,Kruskal-Wallis,5.050367720126242e-10,Mann-Whitney U,shg_10mW_2s vs pooled_control,1470.0,5.189995467860994e-10,5.189995467860994e-10,True,***,16,0.02099295056388084,93,0.046235071472477775

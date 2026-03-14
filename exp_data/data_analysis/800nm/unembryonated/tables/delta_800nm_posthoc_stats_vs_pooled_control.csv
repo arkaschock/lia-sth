@@ -1,0 +1,19 @@
+delta_group,omnibus_test,posthoc_test,comparison,n_group1,n_group2,statistic,p_raw,p_adjusted,significant_0.05,sig
+delta_2c_4c,Kruskal-Wallis,Dunn + Holm (vs pooled_control),cw_120s vs pooled_control,13,93,-0.046359502691943055,0.9630237139569343,1.0,False,ns
+delta_2c_4c,Kruskal-Wallis,Dunn + Holm (vs pooled_control),cw_30s vs pooled_control,37,93,1.1084786612176871,0.2676551497846491,1.0,False,ns
+delta_2c_4c,Kruskal-Wallis,Dunn + Holm (vs pooled_control),cw_60s vs pooled_control,36,93,-0.07485195233767407,0.9403325057321287,1.0,False,ns
+delta_2c_4c,Kruskal-Wallis,Dunn + Holm (vs pooled_control),pulsed_120s vs pooled_control,35,93,3.456996179352367,0.0005462325934366884,0.002731162967183442,True,**
+delta_2c_4c,Kruskal-Wallis,Dunn + Holm (vs pooled_control),pulsed_30s vs pooled_control,39,93,0.7169444944241065,0.473408346007422,1.0,False,ns
+delta_2c_4c,Kruskal-Wallis,Dunn + Holm (vs pooled_control),pulsed_60s vs pooled_control,34,93,4.946304865759849,7.563547274205975e-07,4.538128364523585e-06,True,***
+delta_4c_bean,Kruskal-Wallis,Dunn + Holm (vs pooled_control),cw_120s vs pooled_control,13,93,-1.5373384833139687,0.12421044221479917,0.444557709697326,False,ns
+delta_4c_bean,Kruskal-Wallis,Dunn + Holm (vs pooled_control),cw_30s vs pooled_control,37,93,-1.362384494526018,0.173076574498934,0.444557709697326,False,ns
+delta_4c_bean,Kruskal-Wallis,Dunn + Holm (vs pooled_control),cw_60s vs pooled_control,36,93,-1.593092563239572,0.1111394274243315,0.444557709697326,False,ns
+delta_4c_bean,Kruskal-Wallis,Dunn + Holm (vs pooled_control),pulsed_120s vs pooled_control,35,93,3.529623333381976,0.0004161516862915075,0.0024969101177490446,True,**
+delta_4c_bean,Kruskal-Wallis,Dunn + Holm (vs pooled_control),pulsed_30s vs pooled_control,39,93,0.40919677613893163,0.682395260078828,0.682395260078828,False,ns
+delta_4c_bean,Kruskal-Wallis,Dunn + Holm (vs pooled_control),pulsed_60s vs pooled_control,34,93,2.527760962610956,0.011479247804576351,0.057396239022881754,False,ns
+delta_bean_move,Kruskal-Wallis,Dunn + Holm (vs pooled_control),cw_120s vs pooled_control,13,93,4.655465796734745,3.2324906823756157e-06,1.616245341187808e-05,True,***
+delta_bean_move,Kruskal-Wallis,Dunn + Holm (vs pooled_control),cw_30s vs pooled_control,37,93,1.5070058391003955,0.13180916051176586,0.13180916051176586,False,ns
+delta_bean_move,Kruskal-Wallis,Dunn + Holm (vs pooled_control),cw_60s vs pooled_control,36,93,1.8465191161499064,0.06481686633970041,0.12963373267940081,False,ns
+delta_bean_move,Kruskal-Wallis,Dunn + Holm (vs pooled_control),pulsed_120s vs pooled_control,35,93,5.079003251954728,3.7942021707131725e-07,2.2765213024279034e-06,True,***
+delta_bean_move,Kruskal-Wallis,Dunn + Holm (vs pooled_control),pulsed_30s vs pooled_control,39,93,3.709190548958325,0.00020792290870587146,0.0006237687261176144,True,***
+delta_bean_move,Kruskal-Wallis,Dunn + Holm (vs pooled_control),pulsed_60s vs pooled_control,34,93,4.5053509284780855,6.626334349815804e-06,2.6505337399263216e-05,True,***

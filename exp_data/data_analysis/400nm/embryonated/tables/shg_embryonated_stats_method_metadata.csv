@@ -1,0 +1,2 @@
+selected_test_family,pairwise_alpha_report,pairwise_n_comparisons,n_included_groups,excluded_non_motile_at_start,normality_decision_rule
+non_parametric,0.005,10,5,400-SHG-20mW-10s;400-SHG-30mW-10s;400-SHG-30mW-5s;400-SHG-40mW-10s;400-SHG-40mW-30s;400-SHG-40mW-5s,parametric only if all included groups n>=3 and Shapiro p>0.05

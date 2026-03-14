@@ -1,0 +1,4 @@
+treatment,n_total_excluding_no_larvae,n_continued_motion,pct_continued_motion,n_stopped_in_egg,pct_stopped_in_egg,median_dt_motion_stop_h,q1_dt_motion_stop_h,q3_dt_motion_stop_h,iqr_dt_motion_stop_h
+800-pulsed-330mW-120s,24,1,4.2,19,79.2,288.0,150.0,434.5,150.00 to 434.50
+800-pulsed-330mW-60s,31,25,80.6,6,19.4,513.3,473.55,593.55,473.55 to 593.55
+800-cw-330mW-120s,22,21,95.5,1,4.5,31.0,31.0,31.0,31.00 to 31.00

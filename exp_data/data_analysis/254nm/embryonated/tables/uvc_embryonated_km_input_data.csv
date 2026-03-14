@@ -1,0 +1,319 @@
+egg_uid,analysis_group,duration_h,event_observed,dt_motion_stop_h,t_motion_stop_h,death_mode,flags
+115,Control (pooled),700.0,0,,,,
+116,Control (pooled),700.0,0,,,,
+117,Control (pooled),700.0,0,,,,
+118,Control (pooled),700.0,0,,,,
+119,Control (pooled),700.0,0,,,,
+120,Control (pooled),700.0,0,,,,
+121,Control (pooled),380.5,1,380.5,422.0,uncertain,death_after_hatch
+122,Control (pooled),700.0,0,,,,
+123,Control (pooled),700.0,0,,,,
+124,Control (pooled),700.0,0,,,,
+125,Control (pooled),700.0,0,,,,
+126,Control (pooled),700.0,0,,,,
+127,Control (pooled),700.0,0,,,,
+128,Control (pooled),700.0,0,,,,
+129,Control (pooled),700.0,0,,,,
+130,Control (pooled),700.0,0,,,,
+131,Control (pooled),700.0,0,,,,
+132,Control (pooled),700.0,0,,,,
+133,Control (pooled),700.0,0,,,,
+134,Control (pooled),700.0,0,,,,
+135,Control (pooled),700.0,0,,,,
+136,Control (pooled),700.0,0,,,,
+137,Control (pooled),700.0,0,,,,
+138,Control (pooled),700.0,0,,,,
+139,Control (pooled),700.0,0,,,,
+140,Control (pooled),700.0,0,,,,
+141,Control (pooled),700.0,0,,,,
+142,Control (pooled),700.0,0,,,,
+143,Control (pooled),562.5,1,562.5,604.0,uncertain,death_after_hatch
+144,Control (pooled),700.0,0,,,,
+145,Control (pooled),700.0,0,,,,
+146,Control (pooled),700.0,0,,,,
+147,Control (pooled),700.0,0,,,,
+148,Control (pooled),700.0,0,,,,
+149,Control (pooled),700.0,0,,,,
+150,Control (pooled),700.0,0,,,,
+151,Control (pooled),700.0,0,,,,
+304,Control (pooled),649.0,1,649.0,688.0,uncertain,death_after_hatch
+305,Control (pooled),700.0,0,,,,
+306,Control (pooled),700.0,0,,,,
+307,Control (pooled),700.0,0,,,,
+308,Control (pooled),551.0,1,551.0,590.0,uncertain,death_after_hatch
+309,Control (pooled),700.0,0,,,,
+310,Control (pooled),700.0,0,,,,
+311,Control (pooled),700.0,0,,,,
+312,Control (pooled),700.0,0,,,,
+313,Control (pooled),615.0,1,615.0,654.0,uncertain,death_after_hatch
+314,Control (pooled),700.0,0,,,,
+315,Control (pooled),700.0,0,,,,
+316,Control (pooled),700.0,0,,,,
+317,Control (pooled),700.0,0,,,,
+318,Control (pooled),700.0,0,,,,
+319,Control (pooled),178.0,1,178.0,217.0,uncertain,death_after_hatch
+320,Control (pooled),528.0,1,528.0,567.0,uncertain,death_after_hatch
+321,Control (pooled),587.0,1,587.0,626.0,uncertain,exit_egg
+322,Control (pooled),700.0,0,,,,
+323,Control (pooled),700.0,0,,,,
+324,Control (pooled),700.0,0,,,,
+325,Control (pooled),700.0,0,,,,
+326,Control (pooled),700.0,0,,,,
+327,Control (pooled),700.0,0,,,,
+328,Control (pooled),700.0,0,,,,
+329,Control (pooled),700.0,0,,,,
+330,Control (pooled),700.0,0,,,,
+331,Control (pooled),700.0,0,,,,
+332,Control (pooled),700.0,0,,,,
+333,Control (pooled),700.0,0,,,,
+334,Control (pooled),700.0,0,,,,
+335,Control (pooled),700.0,0,,,,
+336,Control (pooled),700.0,0,,,,
+337,Control (pooled),700.0,0,,,,
+338,Control (pooled),700.0,0,,,,
+339,Control (pooled),700.0,0,,,,
+567,Control (pooled),700.0,0,,,,
+568,Control (pooled),700.0,0,,,,
+569,Control (pooled),700.0,0,,,,
+570,Control (pooled),652.0,1,652.0,670.0,uncertain,
+571,Control (pooled),700.0,0,,,,
+572,Control (pooled),700.0,0,,,,
+573,Control (pooled),0.0,1,0.0,18.0,uncertain,death_after_hatch
+574,Control (pooled),700.0,0,,,,
+575,Control (pooled),700.0,0,,,,
+576,Control (pooled),596.0,1,596.0,614.0,uncertain,
+577,Control (pooled),700.0,0,,,,
+578,Control (pooled),700.0,0,,,,
+579,Control (pooled),700.0,0,,,,
+580,Control (pooled),700.0,0,,,,
+581,Control (pooled),700.0,0,,,,
+582,Control (pooled),700.0,0,,,,
+583,Control (pooled),700.0,0,,,,
+584,Control (pooled),700.0,0,,,,
+585,Control (pooled),469.0,1,469.0,487.0,uncertain,death_after_hatch
+586,Control (pooled),100.0,1,100.0,118.0,necrotic_like,
+587,Control (pooled),579.0,1,579.0,597.0,necrotic_like,
+588,Control (pooled),700.0,0,,,,
+589,Control (pooled),71.5,1,71.5,89.5,necrotic_like,
+590,Control (pooled),700.0,0,,,,
+591,UVC-6W-600s,0.0,1,0.0,0.5,necrotic_like,exit_egg
+592,UVC-6W-600s,0.0,1,0.0,0.5,necrotic_like,
+593,UVC-6W-600s,0.0,1,0.0,0.5,necrotic_like,
+594,UVC-6W-600s,0.0,1,0.0,0.5,necrotic_like,
+595,UVC-6W-600s,0.0,1,0.0,0.5,necrotic_like,
+596,UVC-6W-600s,0.0,1,0.0,0.5,necrotic_like,exit_egg
+597,UVC-6W-600s,0.0,1,0.0,0.5,necrotic_like,
+598,UVC-6W-600s,0.0,1,0.0,0.5,necrotic_like,
+599,UVC-6W-600s,0.0,1,0.0,0.5,necrotic_like,
+600,UVC-6W-600s,0.0,1,0.0,0.5,necrotic_like,
+601,UVC-6W-600s,0.0,1,0.0,0.5,necrotic_like,exit_egg
+602,UVC-6W-600s,0.0,1,0.0,0.5,necrotic_like,exit_egg
+603,UVC-6W-600s,0.0,1,0.0,0.5,necrotic_like,
+604,UVC-6W-600s,0.0,1,0.0,0.5,necrotic_like,
+605,UVC-6W-600s,0.0,1,0.0,0.5,necrotic_like,exit_egg
+606,UVC-6W-600s,0.0,1,0.0,0.5,necrotic_like,
+607,UVC-6W-600s,0.0,1,0.0,0.5,necrotic_like,
+608,UVC-6W-600s,0.0,1,0.0,0.5,necrotic_like,
+609,UVC-6W-600s,0.0,1,0.0,0.5,necrotic_like,
+610,UVC-6W-600s,0.0,1,0.0,0.5,necrotic_like,
+611,UVC-6W-600s,0.0,1,0.0,0.5,necrotic_like,
+612,UVC-6W-600s,0.0,1,0.0,0.5,necrotic_like,
+613,UVC-6W-600s,0.0,1,0.0,0.5,necrotic_like,exit_egg
+614,UVC-6W-600s,0.0,1,0.0,0.5,necrotic_like,
+615,UVC-6W-600s,0.0,1,0.0,0.5,necrotic_like,exit_egg
+616,UVC-6W-600s,0.0,1,0.0,0.5,necrotic_like,
+617,UVC-6W-600s,0.0,1,0.0,0.5,necrotic_like,
+618,UVC-6W-600s,0.0,1,0.0,0.5,necrotic_like,exit_egg
+619,UVC-6W-600s,0.0,1,0.0,0.5,necrotic_like,exit_egg
+620,UVC-6W-600s,0.0,1,0.0,0.5,necrotic_like,
+621,UVC-6W-600s,105.5,1,105.5,106.0,necrotic_like,terminal_twitching;exit_egg
+622,UVC-6W-600s,0.0,1,0.0,0.5,necrotic_like,
+623,UVC-6W-600s,96.1,1,96.1,96.6,necrotic_like,terminal_twitching;exit_egg
+624,UVC-6W-600s,0.0,1,0.0,0.5,necrotic_like,exit_egg
+625,UVC-6W-600s,0.0,1,0.0,0.5,necrotic_like,
+626,UVC-6W-600s,0.0,1,0.0,0.5,necrotic_like,
+627,UVC-6W-600s,0.0,1,0.0,0.5,necrotic_like,
+628,UVC-6W-600s,0.0,1,0.0,0.5,necrotic_like,
+629,UVC-6W-600s,0.0,1,0.0,0.5,necrotic_like,
+630,UVC-6W-300s,149.5,1,149.5,150.0,necrotic_like,terminal_twitching
+631,UVC-6W-300s,0.0,1,0.0,0.5,necrotic_like,terminal_twitching
+632,UVC-6W-300s,110.5,1,110.5,111.0,necrotic_like,terminal_twitching
+633,UVC-6W-300s,149.5,1,149.5,150.0,necrotic_like,terminal_twitching
+634,UVC-6W-300s,99.5,1,99.5,100.0,necrotic_like,terminal_twitching
+635,UVC-6W-300s,76.5,1,76.5,77.0,necrotic_like,terminal_twitching
+636,UVC-6W-300s,127.5,1,127.5,128.0,necrotic_like,terminal_twitching
+637,UVC-6W-300s,101.5,1,101.5,102.0,necrotic_like,terminal_twitching
+638,UVC-6W-300s,64.5,1,64.5,65.0,necrotic_like,terminal_twitching
+639,UVC-6W-300s,0.0,1,0.0,0.5,necrotic_like,terminal_twitching
+640,UVC-6W-300s,52.5,1,52.5,53.0,necrotic_like,terminal_twitching
+641,UVC-6W-300s,112.5,1,112.5,113.0,necrotic_like,terminal_twitching
+642,UVC-6W-300s,149.5,1,149.5,150.0,necrotic_like,terminal_twitching
+643,UVC-6W-300s,113.5,1,113.5,114.0,necrotic_like,terminal_twitching
+644,UVC-6W-300s,109.5,1,109.5,110.0,necrotic_like,terminal_twitching
+645,UVC-6W-300s,44.5,1,44.5,45.0,necrotic_like,terminal_twitching
+646,UVC-6W-300s,87.5,1,87.5,88.0,necrotic_like,terminal_twitching
+647,UVC-6W-300s,52.5,1,52.5,53.0,necrotic_like,terminal_twitching
+648,UVC-6W-300s,92.5,1,92.5,93.0,necrotic_like,terminal_twitching
+649,UVC-6W-300s,127.5,1,127.5,128.0,necrotic_like,terminal_twitching
+650,UVC-6W-300s,129.5,1,129.5,130.0,necrotic_like,terminal_twitching
+651,UVC-6W-300s,114.5,1,114.5,115.0,necrotic_like,terminal_twitching
+652,UVC-6W-300s,66.5,1,66.5,67.0,necrotic_like,terminal_twitching
+653,UVC-6W-300s,81.5,1,81.5,82.0,necrotic_like,terminal_twitching
+654,UVC-6W-300s,42.5,1,42.5,43.0,necrotic_like,terminal_twitching
+655,UVC-6W-300s,84.5,1,84.5,85.0,necrotic_like,terminal_twitching
+656,UVC-6W-300s,129.5,1,129.5,130.0,necrotic_like,terminal_twitching
+657,UVC-6W-300s,95.5,1,95.5,96.0,necrotic_like,terminal_twitching
+658,UVC-6W-300s,99.5,1,99.5,100.0,necrotic_like,terminal_twitching
+659,UVC-6W-300s,80.5,1,80.5,81.0,necrotic_like,terminal_twitching
+660,UVC-6W-300s,46.5,1,46.5,47.0,necrotic_like,terminal_twitching
+661,UVC-6W-300s,99.5,1,99.5,100.0,necrotic_like,terminal_twitching
+662,UVC-6W-300s,92.5,1,92.5,93.0,necrotic_like,terminal_twitching
+663,UVC-6W-300s,216.5,1,216.5,217.0,necrotic_like,terminal_twitching
+664,UVC-6W-300s,95.5,1,95.5,96.0,necrotic_like,terminal_twitching
+665,UVC-6W-180s,99.8,1,99.8,100.0,necrotic_like,terminal_twitching;exit_egg
+666,UVC-6W-180s,169.8,1,169.8,170.0,necrotic_like,terminal_twitching;exit_egg
+667,UVC-6W-180s,127.8,1,127.8,128.0,necrotic_like,terminal_twitching;exit_egg
+668,UVC-6W-180s,202.8,1,202.8,203.0,necrotic_like,terminal_twitching
+669,UVC-6W-180s,159.8,1,159.8,160.0,necrotic_like,terminal_twitching
+670,UVC-6W-180s,142.8,1,142.8,143.0,necrotic_like,
+671,UVC-6W-180s,156.8,1,156.8,157.0,necrotic_like,terminal_twitching
+672,UVC-6W-180s,135.8,1,135.8,136.0,necrotic_like,terminal_twitching
+673,UVC-6W-180s,156.8,1,156.8,157.0,necrotic_like,terminal_twitching
+674,UVC-6W-180s,0.0,1,0.0,0.2,uncertain,death_after_hatch
+675,UVC-6W-180s,130.8,1,130.8,131.0,necrotic_like,terminal_twitching
+676,UVC-6W-180s,180.8,1,180.8,181.0,necrotic_like,terminal_twitching
+677,UVC-6W-180s,179.8,1,179.8,180.0,necrotic_like,terminal_twitching
+678,UVC-6W-180s,149.8,1,149.8,150.0,necrotic_like,terminal_twitching
+679,UVC-6W-180s,122.8,1,122.8,123.0,necrotic_like,terminal_twitching
+680,UVC-6W-180s,123.8,1,123.8,124.0,necrotic_like,terminal_twitching
+681,UVC-6W-180s,137.8,1,137.8,138.0,necrotic_like,terminal_twitching
+682,UVC-6W-180s,185.8,1,185.8,186.0,necrotic_like,terminal_twitching
+683,UVC-6W-180s,194.8,1,194.8,195.0,necrotic_like,terminal_twitching
+684,UVC-6W-180s,179.8,1,179.8,180.0,necrotic_like,terminal_twitching
+685,UVC-6W-180s,169.8,1,169.8,170.0,necrotic_like,terminal_twitching
+686,UVC-6W-180s,125.8,1,125.8,126.0,necrotic_like,terminal_twitching
+687,UVC-6W-180s,179.8,1,179.8,180.0,necrotic_like,terminal_twitching;exit_egg
+688,UVC-6W-180s,133.8,1,133.8,134.0,necrotic_like,terminal_twitching;exit_egg
+689,UVC-6W-180s,157.8,1,157.8,158.0,necrotic_like,terminal_twitching
+690,UVC-6W-180s,155.8,1,155.8,156.0,necrotic_like,terminal_twitching
+691,UVC-6W-180s,175.8,1,175.8,176.0,necrotic_like,terminal_twitching
+692,UVC-6W-180s,129.8,1,129.8,130.0,necrotic_like,terminal_twitching;exit_egg
+693,UVC-6W-180s,147.8,1,147.8,148.0,necrotic_like,terminal_twitching;exit_egg
+694,UVC-6W-180s,88.8,1,88.8,89.0,necrotic_like,terminal_twitching
+695,UVC-6W-180s,139.8,1,139.8,140.0,necrotic_like,terminal_twitching
+696,UVC-6W-180s,99.8,1,99.8,100.0,necrotic_like,terminal_twitching;exit_egg
+697,UVC-6W-180s,98.8,1,98.8,99.0,necrotic_like,terminal_twitching;exit_egg
+698,UVC-6W-180s,169.8,1,169.8,170.0,necrotic_like,terminal_twitching
+699,UVC-6W-180s,119.8,1,119.8,120.0,necrotic_like,terminal_twitching
+700,UVC-6W-180s,134.8,1,134.8,135.0,necrotic_like,terminal_twitching
+701,UVC-6W-120s,127.9,1,127.9,128.0,necrotic_like,
+702,UVC-6W-120s,161.9,1,161.9,162.0,necrotic_like,
+703,UVC-6W-120s,234.9,1,234.9,235.0,necrotic_like,
+704,UVC-6W-120s,149.9,1,149.9,150.0,necrotic_like,
+705,UVC-6W-120s,233.9,1,233.9,234.0,necrotic_like,
+706,UVC-6W-120s,224.9,1,224.9,225.0,necrotic_like,
+707,UVC-6W-120s,149.9,1,149.9,150.0,necrotic_like,
+708,UVC-6W-120s,184.9,1,184.9,185.0,necrotic_like,
+709,UVC-6W-120s,244.9,1,244.9,245.0,necrotic_like,
+710,UVC-6W-120s,139.9,1,139.9,140.0,necrotic_like,
+711,UVC-6W-120s,108.9,1,108.9,109.0,necrotic_like,
+712,UVC-6W-120s,36.9,1,36.9,37.0,necrotic_like,
+713,UVC-6W-120s,174.9,1,174.9,175.0,necrotic_like,
+714,UVC-6W-120s,114.9,1,114.9,115.0,necrotic_like,
+715,UVC-6W-120s,157.9,1,157.9,158.0,necrotic_like,
+716,UVC-6W-120s,143.9,1,143.9,144.0,necrotic_like,
+717,UVC-6W-120s,199.9,1,199.9,200.0,necrotic_like,
+718,UVC-6W-120s,179.9,1,179.9,180.0,necrotic_like,
+719,UVC-6W-120s,179.9,1,179.9,180.0,necrotic_like,
+720,UVC-6W-120s,111.9,1,111.9,112.0,necrotic_like,
+721,UVC-6W-120s,174.9,1,174.9,175.0,necrotic_like,
+722,UVC-6W-120s,199.9,1,199.9,200.0,necrotic_like,
+723,UVC-6W-120s,137.9,1,137.9,138.0,necrotic_like,
+724,UVC-6W-120s,113.9,1,113.9,114.0,necrotic_like,
+725,UVC-6W-120s,174.9,1,174.9,175.0,necrotic_like,
+726,UVC-6W-120s,154.9,1,154.9,155.0,necrotic_like,
+727,UVC-6W-120s,214.9,1,214.9,215.0,necrotic_like,
+728,UVC-6W-120s,134.9,1,134.9,135.0,necrotic_like,
+729,UVC-6W-120s,199.9,1,199.9,200.0,necrotic_like,
+730,UVC-6W-120s,202.9,1,202.9,203.0,necrotic_like,
+731,UVC-6W-120s,164.9,1,164.9,165.0,necrotic_like,
+732,UVC-6W-120s,202.9,1,202.9,203.0,necrotic_like,
+733,UVC-6W-120s,189.9,1,189.9,190.0,necrotic_like,
+734,UVC-6W-120s,55.9,1,55.9,56.0,necrotic_like,
+735,UVC-6W-120s,74.9,1,74.9,75.0,necrotic_like,
+736,UVC-6W-120s,184.9,1,184.9,185.0,necrotic_like,
+737,UVC-6W-60s,284.5,1,284.5,285.0,necrotic_like,
+738,UVC-6W-60s,234.5,1,234.5,235.0,necrotic_like,
+739,UVC-6W-60s,289.5,1,289.5,290.0,necrotic_like,
+740,UVC-6W-60s,174.5,1,174.5,175.0,necrotic_like,
+741,UVC-6W-60s,700.0,0,,,,
+742,UVC-6W-60s,211.5,1,211.5,212.0,necrotic_like,exit_egg
+743,UVC-6W-60s,296.5,1,296.5,297.0,necrotic_like,
+744,UVC-6W-60s,116.5,1,116.5,117.0,necrotic_like,
+745,UVC-6W-60s,295.5,1,295.5,296.0,necrotic_like,
+746,UVC-6W-60s,267.5,1,267.5,268.0,necrotic_like,
+747,UVC-6W-60s,81.5,1,81.5,82.0,uncertain,death_after_hatch
+748,UVC-6W-60s,77.5,1,77.5,78.0,necrotic_like,
+749,UVC-6W-60s,255.5,1,255.5,256.0,necrotic_like,
+750,UVC-6W-60s,19.5,1,19.5,20.0,necrotic_like,
+751,UVC-6W-60s,249.5,1,249.5,250.0,necrotic_like,
+752,UVC-6W-60s,265.5,1,265.5,266.0,necrotic_like,
+753,UVC-6W-60s,309.5,1,309.5,310.0,necrotic_like,
+754,UVC-6W-60s,284.5,1,284.5,285.0,necrotic_like,
+755,UVC-6W-60s,293.5,1,293.5,294.0,necrotic_like,
+756,UVC-6W-60s,276.5,1,276.5,277.0,necrotic_like,
+757,UVC-6W-60s,314.5,1,314.5,315.0,necrotic_like,
+758,UVC-6W-60s,282.5,1,282.5,283.0,necrotic_like,
+759,UVC-6W-60s,329.5,1,329.5,330.0,necrotic_like,
+760,UVC-6W-60s,241.5,1,241.5,242.0,necrotic_like,
+761,UVC-6W-60s,249.5,1,249.5,250.0,necrotic_like,
+762,UVC-6W-60s,289.5,1,289.5,290.0,necrotic_like,
+763,UVC-6W-60s,299.5,1,299.5,300.0,necrotic_like,
+764,UVC-6W-60s,224.5,1,224.5,225.0,necrotic_like,
+765,UVC-6W-60s,289.5,1,289.5,290.0,necrotic_like,
+766,UVC-6W-60s,700.0,0,,,,
+767,UVC-6W-60s,235.5,1,235.5,236.0,necrotic_like,
+768,UVC-6W-60s,314.5,1,314.5,315.0,necrotic_like,
+769,UVC-6W-60s,318.5,1,318.5,319.0,necrotic_like,
+770,UVC-6W-60s,268.5,1,268.5,269.0,necrotic_like,
+771,UVC-6W-60s,259.5,1,259.5,260.0,necrotic_like,
+772,UVC-6W-60s,239.5,1,239.5,240.0,necrotic_like,
+773,UVC-6W-30s,289.5,1,289.5,290.0,necrotic_like,
+774,UVC-6W-30s,286.5,1,286.5,287.0,necrotic_like,
+775,UVC-6W-30s,289.5,1,289.5,290.0,necrotic_like,
+776,UVC-6W-30s,329.5,1,329.5,330.0,necrotic_like,exit_egg
+777,UVC-6W-30s,108.5,1,108.5,109.0,necrotic_like,
+778,UVC-6W-30s,177.5,1,177.5,178.0,necrotic_like,
+779,UVC-6W-30s,329.5,1,329.5,330.0,necrotic_like,
+780,UVC-6W-30s,439.5,1,439.5,440.0,necrotic_like,
+781,UVC-6W-30s,476.5,1,476.5,477.0,necrotic_like,
+782,UVC-6W-30s,299.5,1,299.5,300.0,necrotic_like,
+783,UVC-6W-30s,265.5,1,265.5,266.0,necrotic_like,exit_egg
+784,UVC-6W-30s,391.5,1,391.5,392.0,necrotic_like,
+785,UVC-6W-30s,363.5,1,363.5,364.0,necrotic_like,
+786,UVC-6W-30s,408.5,1,408.5,409.0,necrotic_like,
+787,UVC-6W-30s,251.5,1,251.5,252.0,necrotic_like,
+788,UVC-6W-30s,313.5,1,313.5,314.0,necrotic_like,
+789,UVC-6W-30s,317.5,1,317.5,318.0,necrotic_like,
+790,UVC-6W-30s,410.5,1,410.5,411.0,necrotic_like,
+791,UVC-6W-30s,374.5,1,374.5,375.0,necrotic_like,
+792,UVC-6W-30s,165.5,1,165.5,166.0,necrotic_like,
+793,UVC-6W-30s,219.5,1,219.5,220.0,necrotic_like,
+794,UVC-6W-30s,105.5,1,105.5,106.0,necrotic_like,
+795,UVC-6W-30s,231.5,1,231.5,232.0,necrotic_like,
+796,UVC-6W-30s,413.5,1,413.5,414.0,necrotic_like,
+797,UVC-6W-30s,216.5,1,216.5,217.0,necrotic_like,
+798,UVC-6W-30s,241.5,1,241.5,242.0,necrotic_like,
+799,UVC-6W-30s,283.5,1,283.5,284.0,necrotic_like,
+800,UVC-6W-30s,282.5,1,282.5,283.0,necrotic_like,
+801,UVC-6W-30s,362.5,1,362.5,363.0,necrotic_like,
+802,UVC-6W-30s,129.5,1,129.5,130.0,necrotic_like,
+803,UVC-6W-30s,276.5,1,276.5,277.0,necrotic_like,
+804,UVC-6W-30s,221.5,1,221.5,222.0,necrotic_like,
+805,UVC-6W-30s,129.5,1,129.5,130.0,necrotic_like,
+806,UVC-6W-30s,289.5,1,289.5,290.0,necrotic_like,
+807,UVC-6W-30s,269.5,1,269.5,270.0,necrotic_like,
+808,UVC-6W-30s,273.5,1,273.5,274.0,necrotic_like,
+809,UVC-6W-30s,181.5,1,181.5,182.0,uncertain,death_after_hatch
+810,UVC-6W-30s,180.5,1,180.5,181.0,necrotic_like,
+811,UVC-6W-30s,182.5,1,182.5,183.0,uncertain,death_after_hatch

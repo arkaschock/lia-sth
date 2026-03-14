@@ -1,0 +1,7 @@
+egg_uid,exp_label,start_date,well_id,control,system,wl_nm,regime,power_mW,irradiance_mW_cm2,exposure_s,fluence_J_cm2,t_start_h,t_motion_stop_h,death_mode,flags,exp_label_norm,dt_motion_stop_h
+321,400-SHG-20mW-control,2024-08-12,6,1,,,,,,,,39.0,626.0,uncertain,exit_egg,400_shg_20mw_control,587.0
+570,800-control-330mW,2024-06-01,2,1,,,,,,,,18.0,670.0,uncertain,,800_control_330mw,652.0
+576,800-control-330mW,2024-06-01,5,1,,,,,,,,18.0,614.0,uncertain,,800_control_330mw,596.0
+586,800-control-330mW,2024-06-01,10,1,,,,,,,,18.0,118.0,necrotic_like,,800_control_330mw,100.0
+587,800-control-330mW,2024-06-01,11,1,,,,,,,,18.0,597.0,necrotic_like,,800_control_330mw,579.0
+589,800-control-330mW,2024-06-01,12,1,,,,,,,,18.0,89.5,necrotic_like,,800_control_330mw,71.5

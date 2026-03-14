@@ -1,0 +1,10 @@
+egg_uid,exp_label,start_date,well_id,control,system,wl_nm,regime,power_mW,irradiance_mW_cm2,exposure_s,fluence_J_cm2,t_start_h,t_motion_stop_h,death_mode,flags,exp_label_norm,dt_motion_stop_h
+121,400-SHG-40mW-control,2024-07-23,3,1,,,,,,,,41.5,422.0,uncertain,death_after_hatch,400_shg_40mw_control,380.5
+143,400-SHG-40mW-control,2024-07-23,10,1,,,,,,,,41.5,604.0,uncertain,death_after_hatch,400_shg_40mw_control,562.5
+304,400-SHG-20mW-control,2024-08-12,1,1,,,,,,,,39.0,688.0,uncertain,death_after_hatch,400_shg_20mw_control,649.0
+308,400-SHG-20mW-control,2024-08-12,2,1,,,,,,,,39.0,590.0,uncertain,death_after_hatch,400_shg_20mw_control,551.0
+313,400-SHG-20mW-control,2024-08-12,4,1,,,,,,,,39.0,654.0,uncertain,death_after_hatch,400_shg_20mw_control,615.0
+319,400-SHG-20mW-control,2024-08-12,6,1,,,,,,,,39.0,217.0,uncertain,death_after_hatch,400_shg_20mw_control,178.0
+320,400-SHG-20mW-control,2024-08-12,6,1,,,,,,,,39.0,567.0,uncertain,death_after_hatch,400_shg_20mw_control,528.0
+573,800-control-330mW,2024-06-01,4,1,,,,,,,,18.0,18.0,uncertain,death_after_hatch,800_control_330mw,0.0
+585,800-control-330mW,2024-06-01,10,1,,,,,,,,18.0,487.0,uncertain,death_after_hatch,800_control_330mw,469.0

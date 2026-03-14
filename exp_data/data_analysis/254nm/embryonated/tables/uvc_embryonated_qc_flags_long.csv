@@ -1,0 +1,22 @@
+group,flag,n,pct
+Control (pooled),death_after_hatch,9,9.3
+Control (pooled),exit_egg,1,1.0
+Control (pooled),terminal_twitching,0,0.0
+UVC-6W-600s,death_after_hatch,0,0.0
+UVC-6W-600s,exit_egg,12,30.8
+UVC-6W-600s,terminal_twitching,2,5.1
+UVC-6W-300s,death_after_hatch,0,0.0
+UVC-6W-300s,exit_egg,0,0.0
+UVC-6W-300s,terminal_twitching,35,100.0
+UVC-6W-180s,death_after_hatch,1,2.8
+UVC-6W-180s,exit_egg,9,25.0
+UVC-6W-180s,terminal_twitching,34,94.4
+UVC-6W-120s,death_after_hatch,0,0.0
+UVC-6W-120s,exit_egg,0,0.0
+UVC-6W-120s,terminal_twitching,0,0.0
+UVC-6W-60s,death_after_hatch,1,2.8
+UVC-6W-60s,exit_egg,1,2.8
+UVC-6W-60s,terminal_twitching,0,0.0
+UVC-6W-30s,death_after_hatch,2,5.1
+UVC-6W-30s,exit_egg,2,5.1
+UVC-6W-30s,terminal_twitching,0,0.0

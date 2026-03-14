@@ -1,0 +1,5 @@
+treatment,power_mW,exposure_s,fluence_400nm_J,n_stopped_in_egg,median_dt_motion_stop_h,q1_dt_motion_stop_h,q3_dt_motion_stop_h,iqr_dt_motion_stop_h
+400-SHG-10mW-5s,10.0,5.0,0.05,18,356.7,208.2,509.20000000000005,301.00000000000006
+400-SHG-10mW-10s,10.0,10.0,0.1,23,264.8,168.8,352.8,184.0
+400-SHG-15mW-5s,15.0,5.0,0.075,36,187.0,157.5,308.75,151.25
+400-SHG-15mW-10s,15.0,10.0,0.15,38,11.7,0.0,173.2,173.2

@@ -1,0 +1,2 @@
+selected_test_family,pairwise_alpha_report,pairwise_n_comparisons,n_included_groups,control_removed_from_stats,control_reason,excluded_zero_analyzed_groups,normality_decision_rule
+non_parametric,0.05,15,6,True,untreated and >80% still moving by end of footage,,parametric only if all included groups n>=3 and Shapiro p>0.05

@@ -1,0 +1,14 @@
+group,modality,n_total,n_events,n_censored,median_survival_h
+Control (pooled),Control,97,15,82,inf
+800-pulsed-330mW-120s,800nm,24,23,1,279.6
+800-pulsed-330mW-60s,800nm,31,6,25,inf
+800-cw-330mW-120s,800nm,22,1,21,inf
+400-SHG-10mW-5s,SHG,36,29,7,362.2
+400-SHG-10mW-10s,SHG,36,31,5,257.8
+400-SHG-15mW-5s,SHG,38,37,1,182.5
+400-SHG-15mW-10s,SHG,38,38,0,8.2
+UVC-6W-300s,UVC,35,35,0,95.5
+UVC-6W-180s,UVC,36,36,0,142.8
+UVC-6W-120s,UVC,36,36,0,164.9
+UVC-6W-60s,UVC,36,34,2,268.5
+UVC-6W-30s,UVC,39,39,0,282.5

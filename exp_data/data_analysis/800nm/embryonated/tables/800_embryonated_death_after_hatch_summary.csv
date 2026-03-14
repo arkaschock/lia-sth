@@ -1,0 +1,4 @@
+treatment,n_total_excluding_no_larvae,n_death_after_hatch,pct_death_after_hatch
+800-pulsed-330mW-120s,24,4,16.7
+800-pulsed-330mW-60s,31,0,0.0
+800-cw-330mW-120s,22,0,0.0

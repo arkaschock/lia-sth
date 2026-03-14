@@ -1,0 +1,12 @@
+group,n_total,n_excluded_no_larvae,pct_excluded_no_larvae,n_analyzed,n_Vacuolated (apoptosis-like),pct_Vacuolated (apoptosis-like),n_Lytic (necrosis-like),pct_Lytic (necrosis-like),n_Indeterminate/hatched,pct_Indeterminate/hatched,n_flag_death_after_hatch,pct_flag_death_after_hatch,n_flag_exit_egg,pct_flag_exit_egg,n_flag_terminal_twitching,pct_flag_terminal_twitching
+Control (pooled),97,0,0.0,97,0,0.0,3,3.1,12,12.4,9,9.3,1,1.0,0,0.0
+400-SHG-10mW-5s,36,0,0.0,36,0,0.0,18,50.0,11,30.6,11,30.6,18,50.0,0,0.0
+400-SHG-10mW-10s,36,0,0.0,36,2,5.6,21,58.3,8,22.2,8,22.2,23,63.9,0,0.0
+400-SHG-15mW-5s,38,0,0.0,38,34,89.5,1,2.6,2,5.3,1,2.6,28,73.7,0,0.0
+400-SHG-15mW-10s,38,0,0.0,38,38,100.0,0,0.0,0,0.0,0,0.0,35,92.1,0,0.0
+400-SHG-20mW-10s,37,0,0.0,37,37,100.0,0,0.0,0,0.0,0,0.0,0,0.0,0,0.0
+400-SHG-30mW-5s,39,0,0.0,39,39,100.0,0,0.0,0,0.0,0,0.0,1,2.6,0,0.0
+400-SHG-30mW-10s,40,0,0.0,40,40,100.0,0,0.0,0,0.0,0,0.0,0,0.0,0,0.0
+400-SHG-40mW-5s,36,0,0.0,36,35,97.2,1,2.8,0,0.0,0,0.0,0,0.0,0,0.0
+400-SHG-40mW-10s,38,0,0.0,38,38,100.0,0,0.0,0,0.0,0,0.0,0,0.0,0,0.0
+400-SHG-40mW-30s,40,0,0.0,40,40,100.0,0,0.0,0,0.0,0,0.0,0,0.0,0,0.0

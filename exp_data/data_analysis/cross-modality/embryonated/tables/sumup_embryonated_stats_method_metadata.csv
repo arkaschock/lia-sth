@@ -1,0 +1,2 @@
+selected_test_family,pairwise_alpha_report,pairwise_n_comparisons,n_included_groups,control_removed_from_stats,control_reason,excluded_from_stats_by_rule,normality_decision_rule
+non_parametric,0.05,78,13,True,summary inferential tests are treatment-group focused,400-SHG-20mW-10s;400-SHG-30mW-5s;400-SHG-30mW-10s;400-SHG-40mW-5s;400-SHG-40mW-10s;400-SHG-40mW-30s,parametric only if all included groups n>=3 and Shapiro p>0.05

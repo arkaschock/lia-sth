@@ -1,0 +1,4 @@
+delta_group,omnibus_test,omnibus_p,pairwise_test,comparison,statistic,p_raw,p_holm,significant_0.05,sig,n_shg_10mW_2s,normality_p_shg_10mW_2s,n_pooled_control,normality_p_pooled_control
+delta_2c_4c,Kruskal-Wallis,1.4692205712945696e-09,Mann-Whitney U,shg_10mW_2s vs pooled_control,1591.5,1.5062039505169222e-09,1.5062039505169222e-09,True,***,18,3.554127489905569e-05,93,2.3959669470004393e-10
+delta_4c_bean,ANOVA,1.5764380270714305e-11,Welch t-test,shg_10mW_2s vs pooled_control,3.923907568516455,0.001139207197504911,0.001139207197504911,True,**,17,0.06731818319861618,93,0.7694534470987658
+delta_bean_move,Kruskal-Wallis,1.7148911112317316e-06,Mann-Whitney U,shg_10mW_2s vs pooled_control,1302.0,1.7518684466981373e-06,1.7518684466981373e-06,True,***,16,0.17494763788791215,93,3.8098872301411557e-06

@@ -1,0 +1,5 @@
+Treatment,n_total,n_still_moving,% still moving
+Control (pooled),97,82,84.5
+800-pulsed-330mW-120s,24,1,4.2
+800-pulsed-330mW-60s,31,25,80.6
+800-cw-330mW-120s,22,21,95.5

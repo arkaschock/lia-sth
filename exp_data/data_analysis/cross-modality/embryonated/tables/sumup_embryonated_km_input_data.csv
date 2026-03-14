@@ -1,0 +1,774 @@
+egg_uid,analysis_group,duration_h,event_observed,dt_motion_stop_h,t_motion_stop_h,death_mode,flags
+115,Control (pooled),700.0,0,,,,
+116,Control (pooled),700.0,0,,,,
+117,Control (pooled),700.0,0,,,,
+118,Control (pooled),700.0,0,,,,
+119,Control (pooled),700.0,0,,,,
+120,Control (pooled),700.0,0,,,,
+121,Control (pooled),380.5,1,380.5,422.0,uncertain,death_after_hatch
+122,Control (pooled),700.0,0,,,,
+123,Control (pooled),700.0,0,,,,
+124,Control (pooled),700.0,0,,,,
+125,Control (pooled),700.0,0,,,,
+126,Control (pooled),700.0,0,,,,
+127,Control (pooled),700.0,0,,,,
+128,Control (pooled),700.0,0,,,,
+129,Control (pooled),700.0,0,,,,
+130,Control (pooled),700.0,0,,,,
+131,Control (pooled),700.0,0,,,,
+132,Control (pooled),700.0,0,,,,
+133,Control (pooled),700.0,0,,,,
+134,Control (pooled),700.0,0,,,,
+135,Control (pooled),700.0,0,,,,
+136,Control (pooled),700.0,0,,,,
+137,Control (pooled),700.0,0,,,,
+138,Control (pooled),700.0,0,,,,
+139,Control (pooled),700.0,0,,,,
+140,Control (pooled),700.0,0,,,,
+141,Control (pooled),700.0,0,,,,
+142,Control (pooled),700.0,0,,,,
+143,Control (pooled),562.5,1,562.5,604.0,uncertain,death_after_hatch
+144,Control (pooled),700.0,0,,,,
+145,Control (pooled),700.0,0,,,,
+146,Control (pooled),700.0,0,,,,
+147,Control (pooled),700.0,0,,,,
+148,Control (pooled),700.0,0,,,,
+149,Control (pooled),700.0,0,,,,
+150,Control (pooled),700.0,0,,,,
+151,Control (pooled),700.0,0,,,,
+304,Control (pooled),649.0,1,649.0,688.0,uncertain,death_after_hatch
+305,Control (pooled),700.0,0,,,,
+306,Control (pooled),700.0,0,,,,
+307,Control (pooled),700.0,0,,,,
+308,Control (pooled),551.0,1,551.0,590.0,uncertain,death_after_hatch
+309,Control (pooled),700.0,0,,,,
+310,Control (pooled),700.0,0,,,,
+311,Control (pooled),700.0,0,,,,
+312,Control (pooled),700.0,0,,,,
+313,Control (pooled),615.0,1,615.0,654.0,uncertain,death_after_hatch
+314,Control (pooled),700.0,0,,,,
+315,Control (pooled),700.0,0,,,,
+316,Control (pooled),700.0,0,,,,
+317,Control (pooled),700.0,0,,,,
+318,Control (pooled),700.0,0,,,,
+319,Control (pooled),178.0,1,178.0,217.0,uncertain,death_after_hatch
+320,Control (pooled),528.0,1,528.0,567.0,uncertain,death_after_hatch
+321,Control (pooled),587.0,1,587.0,626.0,uncertain,exit_egg
+322,Control (pooled),700.0,0,,,,
+323,Control (pooled),700.0,0,,,,
+324,Control (pooled),700.0,0,,,,
+325,Control (pooled),700.0,0,,,,
+326,Control (pooled),700.0,0,,,,
+327,Control (pooled),700.0,0,,,,
+328,Control (pooled),700.0,0,,,,
+329,Control (pooled),700.0,0,,,,
+330,Control (pooled),700.0,0,,,,
+331,Control (pooled),700.0,0,,,,
+332,Control (pooled),700.0,0,,,,
+333,Control (pooled),700.0,0,,,,
+334,Control (pooled),700.0,0,,,,
+335,Control (pooled),700.0,0,,,,
+336,Control (pooled),700.0,0,,,,
+337,Control (pooled),700.0,0,,,,
+338,Control (pooled),700.0,0,,,,
+339,Control (pooled),700.0,0,,,,
+567,Control (pooled),700.0,0,,,,
+568,Control (pooled),700.0,0,,,,
+569,Control (pooled),700.0,0,,,,
+570,Control (pooled),652.0,1,652.0,670.0,uncertain,
+571,Control (pooled),700.0,0,,,,
+572,Control (pooled),700.0,0,,,,
+573,Control (pooled),0.0,1,0.0,18.0,uncertain,death_after_hatch
+574,Control (pooled),700.0,0,,,,
+575,Control (pooled),700.0,0,,,,
+576,Control (pooled),596.0,1,596.0,614.0,uncertain,
+577,Control (pooled),700.0,0,,,,
+578,Control (pooled),700.0,0,,,,
+579,Control (pooled),700.0,0,,,,
+580,Control (pooled),700.0,0,,,,
+581,Control (pooled),700.0,0,,,,
+582,Control (pooled),700.0,0,,,,
+583,Control (pooled),700.0,0,,,,
+584,Control (pooled),700.0,0,,,,
+585,Control (pooled),469.0,1,469.0,487.0,uncertain,death_after_hatch
+586,Control (pooled),100.0,1,100.0,118.0,necrotic_like,
+587,Control (pooled),579.0,1,579.0,597.0,necrotic_like,
+588,Control (pooled),700.0,0,,,,
+589,Control (pooled),71.5,1,71.5,89.5,necrotic_like,
+590,Control (pooled),700.0,0,,,,
+488,800-pulsed-330mW-120s,68.4,1,68.4,83.4,necrotic_like,
+489,800-pulsed-330mW-120s,95.0,1,95.0,110.0,uncertain,death_after_hatch
+490,800-pulsed-330mW-120s,162.0,1,162.0,177.0,necrotic_like,
+491,800-pulsed-330mW-120s,507.0,1,507.0,522.0,necrotic_like,
+492,800-pulsed-330mW-120s,0.0,1,0.0,15.0,uncertain,death_after_hatch
+493,800-pulsed-330mW-120s,700.0,0,,,,
+494,800-pulsed-330mW-120s,510.0,1,510.0,525.0,necrotic_like,
+495,800-pulsed-330mW-120s,510.0,1,510.0,525.0,necrotic_like,
+496,800-pulsed-330mW-120s,264.0,1,264.0,279.0,uncertain,death_after_hatch
+497,800-pulsed-330mW-120s,278.0,1,278.0,293.0,uncertain,death_after_hatch
+498,800-pulsed-330mW-120s,279.6,1,279.6,294.6,necrotic_like,
+499,800-pulsed-330mW-120s,288.0,1,288.0,303.0,necrotic_like,
+500,800-pulsed-330mW-120s,149.0,1,149.0,164.0,necrotic_like,
+501,800-pulsed-330mW-120s,342.0,1,342.0,357.0,necrotic_like,
+502,800-pulsed-330mW-120s,151.0,1,151.0,166.0,necrotic_like,
+503,800-pulsed-330mW-120s,444.0,1,444.0,459.0,necrotic_like,
+504,800-pulsed-330mW-120s,125.0,1,125.0,140.0,necrotic_like,
+505,800-pulsed-330mW-120s,286.0,1,286.0,301.0,apoptotic_like,
+506,800-pulsed-330mW-120s,80.0,1,80.0,95.0,apoptotic_like,
+507,800-pulsed-330mW-120s,425.0,1,425.0,440.0,necrotic_like,
+508,800-pulsed-330mW-120s,365.0,1,365.0,380.0,necrotic_like,
+509,800-pulsed-330mW-120s,498.0,1,498.0,513.0,necrotic_like,
+510,800-pulsed-330mW-120s,109.0,1,109.0,124.0,necrotic_like,
+511,800-pulsed-330mW-120s,361.0,1,361.0,376.0,necrotic_like,
+535,800-pulsed-330mW-60s,700.0,0,,,,
+536,800-pulsed-330mW-60s,700.0,0,,,,
+537,800-pulsed-330mW-60s,700.0,0,,,,
+538,800-pulsed-330mW-60s,700.0,0,,,,
+539,800-pulsed-330mW-60s,700.0,0,,,,
+540,800-pulsed-330mW-60s,498.3,1,498.3,517.0,necrotic_like,
+541,800-pulsed-330mW-60s,465.3,1,465.3,484.0,uncertain,
+542,800-pulsed-330mW-60s,700.0,0,,,,
+543,800-pulsed-330mW-60s,0.0,1,0.0,18.7,uncertain,
+544,800-pulsed-330mW-60s,615.3,1,615.3,634.0,uncertain,
+545,800-pulsed-330mW-60s,700.0,0,,,,
+546,800-pulsed-330mW-60s,667.3,1,667.3,686.0,uncertain,
+547,800-pulsed-330mW-60s,700.0,0,,,,
+548,800-pulsed-330mW-60s,700.0,0,,,,
+549,800-pulsed-330mW-60s,700.0,0,,,,
+550,800-pulsed-330mW-60s,700.0,0,,,,
+551,800-pulsed-330mW-60s,700.0,0,,,,
+552,800-pulsed-330mW-60s,700.0,0,,,,
+553,800-pulsed-330mW-60s,700.0,0,,,,
+554,800-pulsed-330mW-60s,700.0,0,,,,
+556,800-pulsed-330mW-60s,700.0,0,,,,
+557,800-pulsed-330mW-60s,700.0,0,,,,
+558,800-pulsed-330mW-60s,700.0,0,,,,
+559,800-pulsed-330mW-60s,700.0,0,,,,
+560,800-pulsed-330mW-60s,700.0,0,,,,
+561,800-pulsed-330mW-60s,700.0,0,,,,
+562,800-pulsed-330mW-60s,700.0,0,,,,
+563,800-pulsed-330mW-60s,700.0,0,,,,
+564,800-pulsed-330mW-60s,700.0,0,,,,
+565,800-pulsed-330mW-60s,700.0,0,,,,
+566,800-pulsed-330mW-60s,528.3,1,528.3,547.0,necrotic_like,
+513,800-cw-330mW-120s,700.0,0,,,,
+514,800-cw-330mW-120s,700.0,0,,,,
+515,800-cw-330mW-120s,700.0,0,,,,
+516,800-cw-330mW-120s,700.0,0,,,,
+517,800-cw-330mW-120s,700.0,0,,,,
+518,800-cw-330mW-120s,700.0,0,,,,
+519,800-cw-330mW-120s,700.0,0,,,,
+520,800-cw-330mW-120s,700.0,0,,,,
+521,800-cw-330mW-120s,31.0,1,31.0,48.0,necrotic_like,
+522,800-cw-330mW-120s,700.0,0,,,,
+523,800-cw-330mW-120s,700.0,0,,,,
+524,800-cw-330mW-120s,700.0,0,,,,
+525,800-cw-330mW-120s,700.0,0,,,,
+526,800-cw-330mW-120s,700.0,0,,,,
+527,800-cw-330mW-120s,700.0,0,,,,
+528,800-cw-330mW-120s,700.0,0,,,,
+529,800-cw-330mW-120s,700.0,0,,,,
+530,800-cw-330mW-120s,700.0,0,,,,
+531,800-cw-330mW-120s,700.0,0,,,,
+532,800-cw-330mW-120s,700.0,0,,,,
+533,800-cw-330mW-120s,700.0,0,,,,
+534,800-cw-330mW-120s,700.0,0,,,,
+452,400-SHG-10mW-5s,146.2,1,146.2,164.0,uncertain,death_after_hatch
+453,400-SHG-10mW-5s,500.2,1,500.2,518.0,necrotic_like,exit_egg
+454,400-SHG-10mW-5s,700.0,0,,,,
+455,400-SHG-10mW-5s,156.2,1,156.2,174.0,necrotic_like,exit_egg
+456,400-SHG-10mW-5s,312.2,1,312.2,330.0,uncertain,death_after_hatch
+457,400-SHG-10mW-5s,578.2,1,578.2,596.0,necrotic_like,exit_egg
+458,400-SHG-10mW-5s,14.2,1,14.2,32.0,necrotic_like,exit_egg
+459,400-SHG-10mW-5s,358.2,1,358.2,376.0,necrotic_like,exit_egg
+460,400-SHG-10mW-5s,630.2,1,630.2,648.0,necrotic_like,exit_egg
+461,400-SHG-10mW-5s,162.2,1,162.2,180.0,uncertain,death_after_hatch
+462,400-SHG-10mW-5s,408.2,1,408.2,426.0,necrotic_like,exit_egg
+463,400-SHG-10mW-5s,700.0,0,,,,
+464,400-SHG-10mW-5s,362.2,1,362.2,380.0,necrotic_like,exit_egg
+465,400-SHG-10mW-5s,501.2,1,501.2,519.0,uncertain,death_after_hatch
+466,400-SHG-10mW-5s,565.2,1,565.2,583.0,necrotic_like,exit_egg
+467,400-SHG-10mW-5s,434.2,1,434.2,452.0,uncertain,death_after_hatch
+468,400-SHG-10mW-5s,512.2,1,512.2,530.0,necrotic_like,exit_egg
+469,400-SHG-10mW-5s,700.0,0,,,,
+470,400-SHG-10mW-5s,115.2,1,115.2,133.0,uncertain,death_after_hatch
+471,400-SHG-10mW-5s,133.2,1,133.2,151.0,necrotic_like,exit_egg
+472,400-SHG-10mW-5s,219.2,1,219.2,237.0,necrotic_like,exit_egg
+473,400-SHG-10mW-5s,700.0,0,,,,
+474,400-SHG-10mW-5s,433.2,1,433.2,451.0,uncertain,death_after_hatch
+475,400-SHG-10mW-5s,355.2,1,355.2,373.0,necrotic_like,exit_egg
+476,400-SHG-10mW-5s,147.2,1,147.2,165.0,uncertain,death_after_hatch
+477,400-SHG-10mW-5s,305.2,1,305.2,323.0,necrotic_like,exit_egg
+478,400-SHG-10mW-5s,543.2,1,543.2,561.0,uncertain,death_after_hatch
+479,400-SHG-10mW-5s,204.2,1,204.2,222.0,uncertain,death_after_hatch
+480,400-SHG-10mW-5s,700.0,0,,,,
+481,400-SHG-10mW-5s,700.0,0,,,,
+482,400-SHG-10mW-5s,147.2,1,147.2,165.0,necrotic_like,exit_egg
+483,400-SHG-10mW-5s,223.2,1,223.2,241.0,uncertain,death_after_hatch
+484,400-SHG-10mW-5s,700.0,0,,,,
+485,400-SHG-10mW-5s,208.2,1,208.2,226.0,necrotic_like,exit_egg
+486,400-SHG-10mW-5s,208.2,1,208.2,226.0,necrotic_like,exit_egg
+487,400-SHG-10mW-5s,589.2,1,589.2,607.0,necrotic_like,exit_egg
+416,400-SHG-10mW-10s,188.8,1,188.8,206.0,necrotic_like,exit_egg
+417,400-SHG-10mW-10s,246.8,1,246.8,264.0,uncertain,death_after_hatch
+418,400-SHG-10mW-10s,642.8,1,642.8,660.0,necrotic_like,exit_egg
+419,400-SHG-10mW-10s,227.8,1,227.8,245.0,necrotic_like,exit_egg
+420,400-SHG-10mW-10s,154.8,1,154.8,172.0,necrotic_like,exit_egg
+421,400-SHG-10mW-10s,273.8,1,273.8,291.0,necrotic_like,exit_egg
+422,400-SHG-10mW-10s,0.0,1,0.0,17.2,apoptotic_like,exit_egg
+423,400-SHG-10mW-10s,371.8,1,371.8,389.0,necrotic_like,exit_egg
+424,400-SHG-10mW-10s,320.8,1,320.8,338.0,necrotic_like,exit_egg
+425,400-SHG-10mW-10s,205.8,1,205.8,223.0,uncertain,death_after_hatch
+426,400-SHG-10mW-10s,181.8,1,181.8,199.0,necrotic_like,exit_egg
+427,400-SHG-10mW-10s,700.0,0,,,,
+428,400-SHG-10mW-10s,222.8,1,222.8,240.0,necrotic_like,exit_egg
+429,400-SHG-10mW-10s,206.8,1,206.8,224.0,necrotic_like,exit_egg
+430,400-SHG-10mW-10s,281.8,1,281.8,299.0,necrotic_like,exit_egg
+431,400-SHG-10mW-10s,167.8,1,167.8,185.0,uncertain,death_after_hatch
+432,400-SHG-10mW-10s,700.0,0,,,,
+433,400-SHG-10mW-10s,700.0,0,,,,
+434,400-SHG-10mW-10s,17.8,1,17.8,35.0,apoptotic_like,exit_egg
+435,400-SHG-10mW-10s,422.8,1,422.8,440.0,necrotic_like,exit_egg
+436,400-SHG-10mW-10s,436.8,1,436.8,454.0,necrotic_like,exit_egg
+437,400-SHG-10mW-10s,142.8,1,142.8,160.0,necrotic_like,exit_egg
+438,400-SHG-10mW-10s,264.8,1,264.8,282.0,necrotic_like,exit_egg
+439,400-SHG-10mW-10s,333.8,1,333.8,351.0,necrotic_like,exit_egg
+440,400-SHG-10mW-10s,333.8,1,333.8,351.0,uncertain,death_after_hatch
+441,400-SHG-10mW-10s,314.8,1,314.8,332.0,necrotic_like,exit_egg
+442,400-SHG-10mW-10s,700.0,0,,,,
+443,400-SHG-10mW-10s,257.8,1,257.8,275.0,uncertain,death_after_hatch
+444,400-SHG-10mW-10s,682.8,1,682.8,700.0,necrotic_like,exit_egg
+445,400-SHG-10mW-10s,700.0,0,,,,
+446,400-SHG-10mW-10s,101.8,1,101.8,119.0,uncertain,death_after_hatch
+447,400-SHG-10mW-10s,105.8,1,105.8,123.0,necrotic_like,exit_egg
+448,400-SHG-10mW-10s,147.8,1,147.8,165.0,uncertain,death_after_hatch
+449,400-SHG-10mW-10s,155.8,1,155.8,173.0,necrotic_like,exit_egg
+450,400-SHG-10mW-10s,202.8,1,202.8,220.0,uncertain,death_after_hatch
+451,400-SHG-10mW-10s,673.8,1,673.8,691.0,necrotic_like,exit_egg
+378,400-SHG-15mW-5s,0.0,1,0.0,17.5,necrotic_like,exit_egg
+379,400-SHG-15mW-5s,165.5,1,165.5,183.0,apoptotic_like,
+380,400-SHG-15mW-5s,239.5,1,239.5,257.0,apoptotic_like,
+381,400-SHG-15mW-5s,137.5,1,137.5,155.0,uncertain,exit_egg
+382,400-SHG-15mW-5s,181.5,1,181.5,199.0,apoptotic_like,
+383,400-SHG-15mW-5s,700.0,0,,,,
+384,400-SHG-15mW-5s,132.5,1,132.5,150.0,apoptotic_like,exit_egg
+385,400-SHG-15mW-5s,162.5,1,162.5,180.0,apoptotic_like,exit_egg
+386,400-SHG-15mW-5s,342.5,1,342.5,360.0,apoptotic_like,exit_egg
+387,400-SHG-15mW-5s,402.5,1,402.5,420.0,apoptotic_like,exit_egg
+388,400-SHG-15mW-5s,173.5,1,173.5,191.0,apoptotic_like,exit_egg
+389,400-SHG-15mW-5s,217.5,1,217.5,235.0,apoptotic_like,
+390,400-SHG-15mW-5s,272.5,1,272.5,290.0,apoptotic_like,
+391,400-SHG-15mW-5s,312.5,1,312.5,330.0,apoptotic_like,
+392,400-SHG-15mW-5s,69.5,1,69.5,87.0,uncertain,death_after_hatch
+393,400-SHG-15mW-5s,122.5,1,122.5,140.0,apoptotic_like,exit_egg
+394,400-SHG-15mW-5s,238.5,1,238.5,256.0,apoptotic_like,exit_egg
+395,400-SHG-15mW-5s,462.5,1,462.5,480.0,apoptotic_like,exit_egg
+396,400-SHG-15mW-5s,191.5,1,191.5,209.0,apoptotic_like,exit_egg
+397,400-SHG-15mW-5s,119.5,1,119.5,137.0,apoptotic_like,exit_egg
+398,400-SHG-15mW-5s,307.5,1,307.5,325.0,apoptotic_like,exit_egg
+399,400-SHG-15mW-5s,178.5,1,178.5,196.0,apoptotic_like,exit_egg
+400,400-SHG-15mW-5s,177.5,1,177.5,195.0,apoptotic_like,exit_egg
+401,400-SHG-15mW-5s,651.5,1,651.5,669.0,apoptotic_like,exit_egg
+402,400-SHG-15mW-5s,312.5,1,312.5,330.0,apoptotic_like,
+403,400-SHG-15mW-5s,626.5,1,626.5,644.0,apoptotic_like,
+404,400-SHG-15mW-5s,114.5,1,114.5,132.0,apoptotic_like,exit_egg
+405,400-SHG-15mW-5s,148.5,1,148.5,166.0,apoptotic_like,exit_egg
+406,400-SHG-15mW-5s,202.5,1,202.5,220.0,apoptotic_like,exit_egg
+407,400-SHG-15mW-5s,162.5,1,162.5,180.0,apoptotic_like,exit_egg
+408,400-SHG-15mW-5s,460.5,1,460.5,478.0,apoptotic_like,exit_egg
+409,400-SHG-15mW-5s,312.5,1,312.5,330.0,apoptotic_like,exit_egg
+410,400-SHG-15mW-5s,27.5,1,27.5,45.0,apoptotic_like,exit_egg
+411,400-SHG-15mW-5s,113.5,1,113.5,131.0,apoptotic_like,exit_egg
+412,400-SHG-15mW-5s,160.5,1,160.5,178.0,apoptotic_like,exit_egg
+413,400-SHG-15mW-5s,182.5,1,182.5,200.0,apoptotic_like,exit_egg
+414,400-SHG-15mW-5s,237.5,1,237.5,255.0,apoptotic_like,exit_egg
+415,400-SHG-15mW-5s,282.5,1,282.5,300.0,apoptotic_like,exit_egg
+340,400-SHG-15mW-10s,7.199999999999999,1,7.199999999999999,24.0,apoptotic_like,exit_egg
+341,400-SHG-15mW-10s,147.2,1,147.2,164.0,apoptotic_like,exit_egg
+342,400-SHG-15mW-10s,207.2,1,207.2,224.0,apoptotic_like,exit_egg
+343,400-SHG-15mW-10s,0.0,1,0.0,16.8,apoptotic_like,exit_egg
+344,400-SHG-15mW-10s,0.0,1,0.0,16.8,apoptotic_like,exit_egg
+345,400-SHG-15mW-10s,0.0,1,0.0,16.8,apoptotic_like,exit_egg
+346,400-SHG-15mW-10s,0.0,1,0.0,16.8,apoptotic_like,exit_egg
+347,400-SHG-15mW-10s,0.0,1,0.0,16.8,apoptotic_like,exit_egg
+348,400-SHG-15mW-10s,0.0,1,0.0,16.8,apoptotic_like,exit_egg
+349,400-SHG-15mW-10s,15.2,1,15.2,32.0,apoptotic_like,exit_egg
+350,400-SHG-15mW-10s,385.2,1,385.2,402.0,apoptotic_like,
+351,400-SHG-15mW-10s,7.699999999999999,1,7.699999999999999,24.5,apoptotic_like,exit_egg
+352,400-SHG-15mW-10s,173.2,1,173.2,190.0,apoptotic_like,exit_egg
+353,400-SHG-15mW-10s,173.2,1,173.2,190.0,apoptotic_like,exit_egg
+354,400-SHG-15mW-10s,213.2,1,213.2,230.0,apoptotic_like,exit_egg
+355,400-SHG-15mW-10s,8.2,1,8.2,25.0,apoptotic_like,exit_egg
+356,400-SHG-15mW-10s,8.2,1,8.2,25.0,apoptotic_like,exit_egg
+357,400-SHG-15mW-10s,0.0,1,0.0,16.8,apoptotic_like,exit_egg
+358,400-SHG-15mW-10s,196.2,1,196.2,213.0,apoptotic_like,exit_egg
+359,400-SHG-15mW-10s,105.2,1,105.2,122.0,apoptotic_like,exit_egg
+360,400-SHG-15mW-10s,0.0,1,0.0,16.8,apoptotic_like,exit_egg
+361,400-SHG-15mW-10s,203.2,1,203.2,220.0,apoptotic_like,exit_egg
+362,400-SHG-15mW-10s,96.2,1,96.2,113.0,apoptotic_like,exit_egg
+363,400-SHG-15mW-10s,0.0,1,0.0,16.8,apoptotic_like,exit_egg
+364,400-SHG-15mW-10s,33.2,1,33.2,50.0,apoptotic_like,exit_egg
+365,400-SHG-15mW-10s,20.7,1,20.7,37.5,apoptotic_like,
+366,400-SHG-15mW-10s,0.0,1,0.0,16.8,apoptotic_like,exit_egg
+367,400-SHG-15mW-10s,131.2,1,131.2,148.0,apoptotic_like,exit_egg
+368,400-SHG-15mW-10s,183.2,1,183.2,200.0,apoptotic_like,exit_egg
+369,400-SHG-15mW-10s,0.0,1,0.0,16.8,apoptotic_like,exit_egg
+370,400-SHG-15mW-10s,7.199999999999999,1,7.199999999999999,24.0,apoptotic_like,exit_egg
+371,400-SHG-15mW-10s,203.2,1,203.2,220.0,apoptotic_like,exit_egg
+372,400-SHG-15mW-10s,3.1999999999999993,1,3.1999999999999993,20.0,apoptotic_like,exit_egg
+373,400-SHG-15mW-10s,86.2,1,86.2,103.0,apoptotic_like,exit_egg
+374,400-SHG-15mW-10s,223.2,1,223.2,240.0,apoptotic_like,exit_egg
+375,400-SHG-15mW-10s,3.1999999999999993,1,3.1999999999999993,20.0,apoptotic_like,exit_egg
+376,400-SHG-15mW-10s,3.1999999999999993,1,3.1999999999999993,20.0,apoptotic_like,exit_egg
+377,400-SHG-15mW-10s,210.2,1,210.2,227.0,apoptotic_like,
+231,400-SHG-20mW-10s,1.1000000000000014,1,1.1000000000000014,18.8,apoptotic_like,
+232,400-SHG-20mW-10s,0.0,1,0.0,17.7,apoptotic_like,
+233,400-SHG-20mW-10s,0.0,1,0.0,17.7,apoptotic_like,
+234,400-SHG-20mW-10s,0.0,1,0.0,17.7,apoptotic_like,
+235,400-SHG-20mW-10s,0.0,1,0.0,17.7,apoptotic_like,
+236,400-SHG-20mW-10s,0.0,1,0.0,17.7,apoptotic_like,
+237,400-SHG-20mW-10s,0.0,1,0.0,17.7,apoptotic_like,
+238,400-SHG-20mW-10s,0.0,1,0.0,17.7,apoptotic_like,
+239,400-SHG-20mW-10s,0.0,1,0.0,17.7,apoptotic_like,
+240,400-SHG-20mW-10s,0.0,1,0.0,17.7,apoptotic_like,
+241,400-SHG-20mW-10s,4.900000000000002,1,4.900000000000002,22.6,apoptotic_like,
+242,400-SHG-20mW-10s,2.5,1,2.5,20.2,apoptotic_like,
+243,400-SHG-20mW-10s,0.0,1,0.0,17.7,apoptotic_like,
+244,400-SHG-20mW-10s,0.0,1,0.0,17.7,apoptotic_like,
+245,400-SHG-20mW-10s,0.0,1,0.0,17.7,apoptotic_like,
+246,400-SHG-20mW-10s,0.0,1,0.0,17.7,apoptotic_like,
+247,400-SHG-20mW-10s,3.6000000000000014,1,3.6000000000000014,21.3,apoptotic_like,
+248,400-SHG-20mW-10s,3.6000000000000014,1,3.6000000000000014,21.3,apoptotic_like,
+249,400-SHG-20mW-10s,3.6000000000000014,1,3.6000000000000014,21.3,apoptotic_like,
+250,400-SHG-20mW-10s,10.900000000000002,1,10.900000000000002,28.6,apoptotic_like,
+251,400-SHG-20mW-10s,0.0,1,0.0,17.7,apoptotic_like,
+252,400-SHG-20mW-10s,0.0,1,0.0,17.7,apoptotic_like,
+253,400-SHG-20mW-10s,1.4000000000000021,1,1.4000000000000021,19.1,apoptotic_like,
+254,400-SHG-20mW-10s,0.0,1,0.0,17.7,apoptotic_like,
+255,400-SHG-20mW-10s,0.0,1,0.0,17.7,apoptotic_like,
+256,400-SHG-20mW-10s,0.0,1,0.0,17.7,apoptotic_like,
+257,400-SHG-20mW-10s,5.0,1,5.0,22.7,apoptotic_like,
+258,400-SHG-20mW-10s,0.0,1,0.0,17.7,apoptotic_like,
+259,400-SHG-20mW-10s,1.5,1,1.5,19.2,apoptotic_like,
+260,400-SHG-20mW-10s,1.5,1,1.5,19.2,apoptotic_like,
+261,400-SHG-20mW-10s,0.0,1,0.0,17.7,apoptotic_like,
+262,400-SHG-20mW-10s,0.0,1,0.0,17.7,apoptotic_like,
+263,400-SHG-20mW-10s,2.0,1,2.0,19.7,apoptotic_like,
+264,400-SHG-20mW-10s,2.0,1,2.0,19.7,apoptotic_like,
+265,400-SHG-20mW-10s,0.0,1,0.0,17.7,apoptotic_like,
+266,400-SHG-20mW-10s,0.0,1,0.0,17.7,apoptotic_like,
+267,400-SHG-20mW-10s,4.0,1,4.0,21.7,apoptotic_like,
+192,400-SHG-30mW-5s,0.0,1,0.0,15.2,apoptotic_like,
+193,400-SHG-30mW-5s,0.0,1,0.0,15.2,apoptotic_like,
+194,400-SHG-30mW-5s,0.0,1,0.0,15.2,apoptotic_like,
+195,400-SHG-30mW-5s,0.0,1,0.0,15.2,apoptotic_like,
+196,400-SHG-30mW-5s,0.0,1,0.0,15.2,apoptotic_like,
+197,400-SHG-30mW-5s,0.0,1,0.0,15.2,apoptotic_like,
+198,400-SHG-30mW-5s,0.0,1,0.0,15.2,apoptotic_like,
+199,400-SHG-30mW-5s,0.0,1,0.0,15.2,apoptotic_like,
+200,400-SHG-30mW-5s,0.0,1,0.0,15.2,apoptotic_like,
+201,400-SHG-30mW-5s,0.0,1,0.0,15.2,apoptotic_like,
+202,400-SHG-30mW-5s,0.0,1,0.0,15.2,apoptotic_like,
+203,400-SHG-30mW-5s,0.0,1,0.0,15.2,apoptotic_like,
+204,400-SHG-30mW-5s,0.0,1,0.0,15.2,apoptotic_like,
+205,400-SHG-30mW-5s,0.0,1,0.0,15.2,apoptotic_like,
+206,400-SHG-30mW-5s,0.0,1,0.0,15.2,apoptotic_like,
+207,400-SHG-30mW-5s,0.0,1,0.0,15.2,apoptotic_like,
+208,400-SHG-30mW-5s,0.0,1,0.0,15.2,apoptotic_like,
+209,400-SHG-30mW-5s,0.0,1,0.0,15.2,apoptotic_like,
+210,400-SHG-30mW-5s,0.0,1,0.0,15.2,apoptotic_like,
+211,400-SHG-30mW-5s,0.0,1,0.0,15.2,apoptotic_like,
+212,400-SHG-30mW-5s,0.0,1,0.0,15.2,apoptotic_like,
+213,400-SHG-30mW-5s,0.0,1,0.0,15.2,apoptotic_like,
+214,400-SHG-30mW-5s,0.0,1,0.0,15.2,apoptotic_like,
+215,400-SHG-30mW-5s,0.0,1,0.0,15.2,apoptotic_like,
+216,400-SHG-30mW-5s,0.0,1,0.0,15.2,apoptotic_like,
+217,400-SHG-30mW-5s,0.0,1,0.0,15.2,apoptotic_like,
+218,400-SHG-30mW-5s,0.0,1,0.0,15.2,apoptotic_like,
+219,400-SHG-30mW-5s,0.0,1,0.0,15.2,apoptotic_like,
+220,400-SHG-30mW-5s,0.0,1,0.0,15.2,apoptotic_like,
+221,400-SHG-30mW-5s,0.0,1,0.0,15.2,apoptotic_like,
+222,400-SHG-30mW-5s,0.0,1,0.0,15.2,apoptotic_like,
+223,400-SHG-30mW-5s,0.0,1,0.0,15.2,apoptotic_like,
+224,400-SHG-30mW-5s,0.0,1,0.0,15.2,apoptotic_like,
+225,400-SHG-30mW-5s,0.0,1,0.0,15.2,apoptotic_like,
+226,400-SHG-30mW-5s,0.0,1,0.0,15.2,apoptotic_like,
+227,400-SHG-30mW-5s,0.0,1,0.0,15.2,apoptotic_like,
+228,400-SHG-30mW-5s,0.0,1,0.0,15.2,apoptotic_like,
+229,400-SHG-30mW-5s,0.0,1,0.0,15.2,apoptotic_like,
+230,400-SHG-30mW-5s,0.0,1,0.0,15.2,apoptotic_like,exit_egg
+152,400-SHG-30mW-10s,0.0,1,0.0,16.2,apoptotic_like,
+153,400-SHG-30mW-10s,0.0,1,0.0,16.2,apoptotic_like,
+154,400-SHG-30mW-10s,0.0,1,0.0,16.2,apoptotic_like,
+155,400-SHG-30mW-10s,0.0,1,0.0,16.2,apoptotic_like,
+156,400-SHG-30mW-10s,0.0,1,0.0,16.2,apoptotic_like,
+157,400-SHG-30mW-10s,0.0,1,0.0,16.2,apoptotic_like,
+158,400-SHG-30mW-10s,0.0,1,0.0,16.2,apoptotic_like,
+159,400-SHG-30mW-10s,0.0,1,0.0,16.2,apoptotic_like,
+160,400-SHG-30mW-10s,0.0,1,0.0,16.2,apoptotic_like,
+161,400-SHG-30mW-10s,0.0,1,0.0,16.2,apoptotic_like,
+162,400-SHG-30mW-10s,0.0,1,0.0,16.2,apoptotic_like,
+163,400-SHG-30mW-10s,0.0,1,0.0,16.2,apoptotic_like,
+164,400-SHG-30mW-10s,0.0,1,0.0,16.2,apoptotic_like,
+165,400-SHG-30mW-10s,0.0,1,0.0,16.2,apoptotic_like,
+166,400-SHG-30mW-10s,0.0,1,0.0,16.2,apoptotic_like,
+167,400-SHG-30mW-10s,0.0,1,0.0,16.2,apoptotic_like,
+168,400-SHG-30mW-10s,0.0,1,0.0,16.2,apoptotic_like,
+169,400-SHG-30mW-10s,0.0,1,0.0,16.2,apoptotic_like,
+170,400-SHG-30mW-10s,0.0,1,0.0,16.2,apoptotic_like,
+171,400-SHG-30mW-10s,0.0,1,0.0,16.2,apoptotic_like,
+172,400-SHG-30mW-10s,0.0,1,0.0,16.2,apoptotic_like,
+173,400-SHG-30mW-10s,0.0,1,0.0,16.2,apoptotic_like,
+174,400-SHG-30mW-10s,0.0,1,0.0,16.2,apoptotic_like,
+175,400-SHG-30mW-10s,0.0,1,0.0,16.2,apoptotic_like,
+176,400-SHG-30mW-10s,0.0,1,0.0,16.2,apoptotic_like,
+177,400-SHG-30mW-10s,0.0,1,0.0,16.2,apoptotic_like,
+178,400-SHG-30mW-10s,0.0,1,0.0,16.2,apoptotic_like,
+179,400-SHG-30mW-10s,0.0,1,0.0,16.2,apoptotic_like,
+180,400-SHG-30mW-10s,0.0,1,0.0,16.2,apoptotic_like,
+181,400-SHG-30mW-10s,0.0,1,0.0,16.2,apoptotic_like,
+182,400-SHG-30mW-10s,0.0,1,0.0,16.2,apoptotic_like,
+183,400-SHG-30mW-10s,0.0,1,0.0,16.2,apoptotic_like,
+184,400-SHG-30mW-10s,0.0,1,0.0,16.2,apoptotic_like,
+185,400-SHG-30mW-10s,0.0,1,0.0,16.2,apoptotic_like,
+186,400-SHG-30mW-10s,0.0,1,0.0,16.2,apoptotic_like,
+187,400-SHG-30mW-10s,0.0,1,0.0,16.2,apoptotic_like,
+188,400-SHG-30mW-10s,0.0,1,0.0,16.2,apoptotic_like,
+189,400-SHG-30mW-10s,0.0,1,0.0,16.2,apoptotic_like,
+190,400-SHG-30mW-10s,0.0,1,0.0,16.2,apoptotic_like,
+191,400-SHG-30mW-10s,0.0,1,0.0,16.2,apoptotic_like,
+79,400-SHG-40mW-5s,0.0,1,0.0,15.2,apoptotic_like,
+80,400-SHG-40mW-5s,0.0,1,0.0,15.2,apoptotic_like,
+81,400-SHG-40mW-5s,0.0,1,0.0,15.2,apoptotic_like,
+82,400-SHG-40mW-5s,0.0,1,0.0,15.2,apoptotic_like,
+83,400-SHG-40mW-5s,0.0,1,0.0,15.2,apoptotic_like,
+84,400-SHG-40mW-5s,0.0,1,0.0,15.2,apoptotic_like,
+85,400-SHG-40mW-5s,0.0,1,0.0,15.2,apoptotic_like,
+86,400-SHG-40mW-5s,0.0,1,0.0,15.2,apoptotic_like,
+87,400-SHG-40mW-5s,0.0,1,0.0,15.2,apoptotic_like,
+88,400-SHG-40mW-5s,0.0,1,0.0,15.2,apoptotic_like,
+89,400-SHG-40mW-5s,0.0,1,0.0,15.2,apoptotic_like,
+90,400-SHG-40mW-5s,0.0,1,0.0,15.2,apoptotic_like,
+91,400-SHG-40mW-5s,0.0,1,0.0,15.2,apoptotic_like,
+92,400-SHG-40mW-5s,0.0,1,0.0,15.2,apoptotic_like,
+93,400-SHG-40mW-5s,0.0,1,0.0,15.2,apoptotic_like,
+94,400-SHG-40mW-5s,0.0,1,0.0,15.2,necrotic_like,
+95,400-SHG-40mW-5s,0.0,1,0.0,15.2,apoptotic_like,
+96,400-SHG-40mW-5s,0.0,1,0.0,15.2,apoptotic_like,
+97,400-SHG-40mW-5s,0.0,1,0.0,15.2,apoptotic_like,
+98,400-SHG-40mW-5s,0.0,1,0.0,15.2,apoptotic_like,
+99,400-SHG-40mW-5s,0.0,1,0.0,15.2,apoptotic_like,
+100,400-SHG-40mW-5s,0.0,1,0.0,15.2,apoptotic_like,
+101,400-SHG-40mW-5s,0.0,1,0.0,15.2,apoptotic_like,
+102,400-SHG-40mW-5s,0.0,1,0.0,15.2,apoptotic_like,
+103,400-SHG-40mW-5s,0.0,1,0.0,15.2,apoptotic_like,
+104,400-SHG-40mW-5s,0.0,1,0.0,15.2,apoptotic_like,
+105,400-SHG-40mW-5s,0.0,1,0.0,15.2,apoptotic_like,
+106,400-SHG-40mW-5s,0.0,1,0.0,15.2,apoptotic_like,
+107,400-SHG-40mW-5s,0.0,1,0.0,15.2,apoptotic_like,
+108,400-SHG-40mW-5s,0.0,1,0.0,15.2,apoptotic_like,
+109,400-SHG-40mW-5s,0.0,1,0.0,15.2,apoptotic_like,
+110,400-SHG-40mW-5s,0.0,1,0.0,15.2,apoptotic_like,
+111,400-SHG-40mW-5s,0.0,1,0.0,15.2,apoptotic_like,
+112,400-SHG-40mW-5s,0.0,1,0.0,15.2,apoptotic_like,
+113,400-SHG-40mW-5s,0.0,1,0.0,15.2,apoptotic_like,
+114,400-SHG-40mW-5s,0.0,1,0.0,15.2,apoptotic_like,
+41,400-SHG-40mW-10s,0.0,1,0.0,14.6,apoptotic_like,
+42,400-SHG-40mW-10s,0.0,1,0.0,14.6,apoptotic_like,
+43,400-SHG-40mW-10s,0.0,1,0.0,14.6,apoptotic_like,
+44,400-SHG-40mW-10s,0.0,1,0.0,14.6,apoptotic_like,
+45,400-SHG-40mW-10s,0.0,1,0.0,14.6,apoptotic_like,
+46,400-SHG-40mW-10s,0.0,1,0.0,14.6,apoptotic_like,
+47,400-SHG-40mW-10s,0.0,1,0.0,14.6,apoptotic_like,
+48,400-SHG-40mW-10s,0.0,1,0.0,14.6,apoptotic_like,
+49,400-SHG-40mW-10s,0.0,1,0.0,14.6,apoptotic_like,
+50,400-SHG-40mW-10s,0.0,1,0.0,14.6,apoptotic_like,
+51,400-SHG-40mW-10s,0.0,1,0.0,14.6,apoptotic_like,
+52,400-SHG-40mW-10s,0.0,1,0.0,14.6,apoptotic_like,
+53,400-SHG-40mW-10s,0.0,1,0.0,14.6,apoptotic_like,
+54,400-SHG-40mW-10s,0.0,1,0.0,14.6,apoptotic_like,
+55,400-SHG-40mW-10s,0.0,1,0.0,14.6,apoptotic_like,
+56,400-SHG-40mW-10s,0.0,1,0.0,14.6,apoptotic_like,
+57,400-SHG-40mW-10s,0.0,1,0.0,14.6,apoptotic_like,
+58,400-SHG-40mW-10s,0.0,1,0.0,14.6,apoptotic_like,
+59,400-SHG-40mW-10s,0.0,1,0.0,14.6,apoptotic_like,
+60,400-SHG-40mW-10s,0.0,1,0.0,14.6,apoptotic_like,
+61,400-SHG-40mW-10s,0.0,1,0.0,14.6,apoptotic_like,
+62,400-SHG-40mW-10s,0.0,1,0.0,14.6,apoptotic_like,
+63,400-SHG-40mW-10s,0.0,1,0.0,14.6,apoptotic_like,
+64,400-SHG-40mW-10s,0.0,1,0.0,14.6,apoptotic_like,
+65,400-SHG-40mW-10s,0.0,1,0.0,14.6,apoptotic_like,
+66,400-SHG-40mW-10s,0.0,1,0.0,14.6,apoptotic_like,
+67,400-SHG-40mW-10s,0.0,1,0.0,14.6,apoptotic_like,
+68,400-SHG-40mW-10s,0.0,1,0.0,14.6,apoptotic_like,
+69,400-SHG-40mW-10s,0.0,1,0.0,14.6,apoptotic_like,
+70,400-SHG-40mW-10s,0.0,1,0.0,14.6,apoptotic_like,
+71,400-SHG-40mW-10s,0.0,1,0.0,14.6,apoptotic_like,
+72,400-SHG-40mW-10s,0.0,1,0.0,14.6,apoptotic_like,
+73,400-SHG-40mW-10s,0.0,1,0.0,14.6,apoptotic_like,
+74,400-SHG-40mW-10s,0.0,1,0.0,14.6,apoptotic_like,
+75,400-SHG-40mW-10s,0.0,1,0.0,14.6,apoptotic_like,
+76,400-SHG-40mW-10s,0.0,1,0.0,14.6,apoptotic_like,
+77,400-SHG-40mW-10s,0.0,1,0.0,14.6,apoptotic_like,
+78,400-SHG-40mW-10s,0.0,1,0.0,14.6,apoptotic_like,
+1,400-SHG-40mW-30s,0.0,1,0.0,40.7,apoptotic_like,
+2,400-SHG-40mW-30s,0.0,1,0.0,40.7,apoptotic_like,
+3,400-SHG-40mW-30s,0.0,1,0.0,40.7,apoptotic_like,
+4,400-SHG-40mW-30s,0.0,1,0.0,40.7,apoptotic_like,
+5,400-SHG-40mW-30s,0.0,1,0.0,40.7,apoptotic_like,
+6,400-SHG-40mW-30s,0.0,1,0.0,40.7,apoptotic_like,
+7,400-SHG-40mW-30s,0.0,1,0.0,40.7,apoptotic_like,
+8,400-SHG-40mW-30s,0.0,1,0.0,40.7,apoptotic_like,
+9,400-SHG-40mW-30s,0.0,1,0.0,40.7,apoptotic_like,
+10,400-SHG-40mW-30s,0.0,1,0.0,40.7,apoptotic_like,
+11,400-SHG-40mW-30s,0.0,1,0.0,40.7,apoptotic_like,
+12,400-SHG-40mW-30s,0.0,1,0.0,40.7,apoptotic_like,
+13,400-SHG-40mW-30s,0.0,1,0.0,40.7,apoptotic_like,
+14,400-SHG-40mW-30s,0.0,1,0.0,40.7,apoptotic_like,
+15,400-SHG-40mW-30s,0.0,1,0.0,40.7,apoptotic_like,
+16,400-SHG-40mW-30s,0.0,1,0.0,40.7,apoptotic_like,
+17,400-SHG-40mW-30s,0.0,1,0.0,40.7,apoptotic_like,
+18,400-SHG-40mW-30s,0.0,1,0.0,40.7,apoptotic_like,
+19,400-SHG-40mW-30s,0.0,1,0.0,40.7,apoptotic_like,
+20,400-SHG-40mW-30s,0.0,1,0.0,40.7,apoptotic_like,
+21,400-SHG-40mW-30s,0.0,1,0.0,40.7,apoptotic_like,
+22,400-SHG-40mW-30s,0.0,1,0.0,40.7,apoptotic_like,
+23,400-SHG-40mW-30s,0.0,1,0.0,40.7,apoptotic_like,
+24,400-SHG-40mW-30s,0.0,1,0.0,40.7,apoptotic_like,
+25,400-SHG-40mW-30s,0.0,1,0.0,40.7,apoptotic_like,
+26,400-SHG-40mW-30s,0.0,1,0.0,40.7,apoptotic_like,
+27,400-SHG-40mW-30s,0.0,1,0.0,40.7,apoptotic_like,
+28,400-SHG-40mW-30s,0.0,1,0.0,40.7,apoptotic_like,
+29,400-SHG-40mW-30s,0.0,1,0.0,40.7,apoptotic_like,
+30,400-SHG-40mW-30s,0.0,1,0.0,40.7,apoptotic_like,
+31,400-SHG-40mW-30s,0.0,1,0.0,40.7,apoptotic_like,
+32,400-SHG-40mW-30s,0.0,1,0.0,40.7,apoptotic_like,
+33,400-SHG-40mW-30s,0.0,1,0.0,40.7,apoptotic_like,
+34,400-SHG-40mW-30s,0.0,1,0.0,40.7,apoptotic_like,
+35,400-SHG-40mW-30s,0.0,1,0.0,40.7,apoptotic_like,
+36,400-SHG-40mW-30s,0.0,1,0.0,40.7,apoptotic_like,
+37,400-SHG-40mW-30s,0.0,1,0.0,40.7,apoptotic_like,
+38,400-SHG-40mW-30s,0.0,1,0.0,40.7,apoptotic_like,
+39,400-SHG-40mW-30s,0.0,1,0.0,40.7,apoptotic_like,
+40,400-SHG-40mW-30s,0.0,1,0.0,40.7,apoptotic_like,
+591,UVC-6W-600s,0.0,1,0.0,0.5,necrotic_like,exit_egg
+592,UVC-6W-600s,0.0,1,0.0,0.5,necrotic_like,
+593,UVC-6W-600s,0.0,1,0.0,0.5,necrotic_like,
+594,UVC-6W-600s,0.0,1,0.0,0.5,necrotic_like,
+595,UVC-6W-600s,0.0,1,0.0,0.5,necrotic_like,
+596,UVC-6W-600s,0.0,1,0.0,0.5,necrotic_like,exit_egg
+597,UVC-6W-600s,0.0,1,0.0,0.5,necrotic_like,
+598,UVC-6W-600s,0.0,1,0.0,0.5,necrotic_like,
+599,UVC-6W-600s,0.0,1,0.0,0.5,necrotic_like,
+600,UVC-6W-600s,0.0,1,0.0,0.5,necrotic_like,
+601,UVC-6W-600s,0.0,1,0.0,0.5,necrotic_like,exit_egg
+602,UVC-6W-600s,0.0,1,0.0,0.5,necrotic_like,exit_egg
+603,UVC-6W-600s,0.0,1,0.0,0.5,necrotic_like,
+604,UVC-6W-600s,0.0,1,0.0,0.5,necrotic_like,
+605,UVC-6W-600s,0.0,1,0.0,0.5,necrotic_like,exit_egg
+606,UVC-6W-600s,0.0,1,0.0,0.5,necrotic_like,
+607,UVC-6W-600s,0.0,1,0.0,0.5,necrotic_like,
+608,UVC-6W-600s,0.0,1,0.0,0.5,necrotic_like,
+609,UVC-6W-600s,0.0,1,0.0,0.5,necrotic_like,
+610,UVC-6W-600s,0.0,1,0.0,0.5,necrotic_like,
+611,UVC-6W-600s,0.0,1,0.0,0.5,necrotic_like,
+612,UVC-6W-600s,0.0,1,0.0,0.5,necrotic_like,
+613,UVC-6W-600s,0.0,1,0.0,0.5,necrotic_like,exit_egg
+614,UVC-6W-600s,0.0,1,0.0,0.5,necrotic_like,
+615,UVC-6W-600s,0.0,1,0.0,0.5,necrotic_like,exit_egg
+616,UVC-6W-600s,0.0,1,0.0,0.5,necrotic_like,
+617,UVC-6W-600s,0.0,1,0.0,0.5,necrotic_like,
+618,UVC-6W-600s,0.0,1,0.0,0.5,necrotic_like,exit_egg
+619,UVC-6W-600s,0.0,1,0.0,0.5,necrotic_like,exit_egg
+620,UVC-6W-600s,0.0,1,0.0,0.5,necrotic_like,
+621,UVC-6W-600s,105.5,1,105.5,106.0,necrotic_like,terminal_twitching;exit_egg
+622,UVC-6W-600s,0.0,1,0.0,0.5,necrotic_like,
+623,UVC-6W-600s,96.1,1,96.1,96.6,necrotic_like,terminal_twitching;exit_egg
+624,UVC-6W-600s,0.0,1,0.0,0.5,necrotic_like,exit_egg
+625,UVC-6W-600s,0.0,1,0.0,0.5,necrotic_like,
+626,UVC-6W-600s,0.0,1,0.0,0.5,necrotic_like,
+627,UVC-6W-600s,0.0,1,0.0,0.5,necrotic_like,
+628,UVC-6W-600s,0.0,1,0.0,0.5,necrotic_like,
+629,UVC-6W-600s,0.0,1,0.0,0.5,necrotic_like,
+630,UVC-6W-300s,149.5,1,149.5,150.0,necrotic_like,terminal_twitching
+631,UVC-6W-300s,0.0,1,0.0,0.5,necrotic_like,terminal_twitching
+632,UVC-6W-300s,110.5,1,110.5,111.0,necrotic_like,terminal_twitching
+633,UVC-6W-300s,149.5,1,149.5,150.0,necrotic_like,terminal_twitching
+634,UVC-6W-300s,99.5,1,99.5,100.0,necrotic_like,terminal_twitching
+635,UVC-6W-300s,76.5,1,76.5,77.0,necrotic_like,terminal_twitching
+636,UVC-6W-300s,127.5,1,127.5,128.0,necrotic_like,terminal_twitching
+637,UVC-6W-300s,101.5,1,101.5,102.0,necrotic_like,terminal_twitching
+638,UVC-6W-300s,64.5,1,64.5,65.0,necrotic_like,terminal_twitching
+639,UVC-6W-300s,0.0,1,0.0,0.5,necrotic_like,terminal_twitching
+640,UVC-6W-300s,52.5,1,52.5,53.0,necrotic_like,terminal_twitching
+641,UVC-6W-300s,112.5,1,112.5,113.0,necrotic_like,terminal_twitching
+642,UVC-6W-300s,149.5,1,149.5,150.0,necrotic_like,terminal_twitching
+643,UVC-6W-300s,113.5,1,113.5,114.0,necrotic_like,terminal_twitching
+644,UVC-6W-300s,109.5,1,109.5,110.0,necrotic_like,terminal_twitching
+645,UVC-6W-300s,44.5,1,44.5,45.0,necrotic_like,terminal_twitching
+646,UVC-6W-300s,87.5,1,87.5,88.0,necrotic_like,terminal_twitching
+647,UVC-6W-300s,52.5,1,52.5,53.0,necrotic_like,terminal_twitching
+648,UVC-6W-300s,92.5,1,92.5,93.0,necrotic_like,terminal_twitching
+649,UVC-6W-300s,127.5,1,127.5,128.0,necrotic_like,terminal_twitching
+650,UVC-6W-300s,129.5,1,129.5,130.0,necrotic_like,terminal_twitching
+651,UVC-6W-300s,114.5,1,114.5,115.0,necrotic_like,terminal_twitching
+652,UVC-6W-300s,66.5,1,66.5,67.0,necrotic_like,terminal_twitching
+653,UVC-6W-300s,81.5,1,81.5,82.0,necrotic_like,terminal_twitching
+654,UVC-6W-300s,42.5,1,42.5,43.0,necrotic_like,terminal_twitching
+655,UVC-6W-300s,84.5,1,84.5,85.0,necrotic_like,terminal_twitching
+656,UVC-6W-300s,129.5,1,129.5,130.0,necrotic_like,terminal_twitching
+657,UVC-6W-300s,95.5,1,95.5,96.0,necrotic_like,terminal_twitching
+658,UVC-6W-300s,99.5,1,99.5,100.0,necrotic_like,terminal_twitching
+659,UVC-6W-300s,80.5,1,80.5,81.0,necrotic_like,terminal_twitching
+660,UVC-6W-300s,46.5,1,46.5,47.0,necrotic_like,terminal_twitching
+661,UVC-6W-300s,99.5,1,99.5,100.0,necrotic_like,terminal_twitching
+662,UVC-6W-300s,92.5,1,92.5,93.0,necrotic_like,terminal_twitching
+663,UVC-6W-300s,216.5,1,216.5,217.0,necrotic_like,terminal_twitching
+664,UVC-6W-300s,95.5,1,95.5,96.0,necrotic_like,terminal_twitching
+665,UVC-6W-180s,99.8,1,99.8,100.0,necrotic_like,terminal_twitching;exit_egg
+666,UVC-6W-180s,169.8,1,169.8,170.0,necrotic_like,terminal_twitching;exit_egg
+667,UVC-6W-180s,127.8,1,127.8,128.0,necrotic_like,terminal_twitching;exit_egg
+668,UVC-6W-180s,202.8,1,202.8,203.0,necrotic_like,terminal_twitching
+669,UVC-6W-180s,159.8,1,159.8,160.0,necrotic_like,terminal_twitching
+670,UVC-6W-180s,142.8,1,142.8,143.0,necrotic_like,
+671,UVC-6W-180s,156.8,1,156.8,157.0,necrotic_like,terminal_twitching
+672,UVC-6W-180s,135.8,1,135.8,136.0,necrotic_like,terminal_twitching
+673,UVC-6W-180s,156.8,1,156.8,157.0,necrotic_like,terminal_twitching
+674,UVC-6W-180s,0.0,1,0.0,0.2,uncertain,death_after_hatch
+675,UVC-6W-180s,130.8,1,130.8,131.0,necrotic_like,terminal_twitching
+676,UVC-6W-180s,180.8,1,180.8,181.0,necrotic_like,terminal_twitching
+677,UVC-6W-180s,179.8,1,179.8,180.0,necrotic_like,terminal_twitching
+678,UVC-6W-180s,149.8,1,149.8,150.0,necrotic_like,terminal_twitching
+679,UVC-6W-180s,122.8,1,122.8,123.0,necrotic_like,terminal_twitching
+680,UVC-6W-180s,123.8,1,123.8,124.0,necrotic_like,terminal_twitching
+681,UVC-6W-180s,137.8,1,137.8,138.0,necrotic_like,terminal_twitching
+682,UVC-6W-180s,185.8,1,185.8,186.0,necrotic_like,terminal_twitching
+683,UVC-6W-180s,194.8,1,194.8,195.0,necrotic_like,terminal_twitching
+684,UVC-6W-180s,179.8,1,179.8,180.0,necrotic_like,terminal_twitching
+685,UVC-6W-180s,169.8,1,169.8,170.0,necrotic_like,terminal_twitching
+686,UVC-6W-180s,125.8,1,125.8,126.0,necrotic_like,terminal_twitching
+687,UVC-6W-180s,179.8,1,179.8,180.0,necrotic_like,terminal_twitching;exit_egg
+688,UVC-6W-180s,133.8,1,133.8,134.0,necrotic_like,terminal_twitching;exit_egg
+689,UVC-6W-180s,157.8,1,157.8,158.0,necrotic_like,terminal_twitching
+690,UVC-6W-180s,155.8,1,155.8,156.0,necrotic_like,terminal_twitching
+691,UVC-6W-180s,175.8,1,175.8,176.0,necrotic_like,terminal_twitching
+692,UVC-6W-180s,129.8,1,129.8,130.0,necrotic_like,terminal_twitching;exit_egg
+693,UVC-6W-180s,147.8,1,147.8,148.0,necrotic_like,terminal_twitching;exit_egg
+694,UVC-6W-180s,88.8,1,88.8,89.0,necrotic_like,terminal_twitching
+695,UVC-6W-180s,139.8,1,139.8,140.0,necrotic_like,terminal_twitching
+696,UVC-6W-180s,99.8,1,99.8,100.0,necrotic_like,terminal_twitching;exit_egg
+697,UVC-6W-180s,98.8,1,98.8,99.0,necrotic_like,terminal_twitching;exit_egg
+698,UVC-6W-180s,169.8,1,169.8,170.0,necrotic_like,terminal_twitching
+699,UVC-6W-180s,119.8,1,119.8,120.0,necrotic_like,terminal_twitching
+700,UVC-6W-180s,134.8,1,134.8,135.0,necrotic_like,terminal_twitching
+701,UVC-6W-120s,127.9,1,127.9,128.0,necrotic_like,
+702,UVC-6W-120s,161.9,1,161.9,162.0,necrotic_like,
+703,UVC-6W-120s,234.9,1,234.9,235.0,necrotic_like,
+704,UVC-6W-120s,149.9,1,149.9,150.0,necrotic_like,
+705,UVC-6W-120s,233.9,1,233.9,234.0,necrotic_like,
+706,UVC-6W-120s,224.9,1,224.9,225.0,necrotic_like,
+707,UVC-6W-120s,149.9,1,149.9,150.0,necrotic_like,
+708,UVC-6W-120s,184.9,1,184.9,185.0,necrotic_like,
+709,UVC-6W-120s,244.9,1,244.9,245.0,necrotic_like,
+710,UVC-6W-120s,139.9,1,139.9,140.0,necrotic_like,
+711,UVC-6W-120s,108.9,1,108.9,109.0,necrotic_like,
+712,UVC-6W-120s,36.9,1,36.9,37.0,necrotic_like,
+713,UVC-6W-120s,174.9,1,174.9,175.0,necrotic_like,
+714,UVC-6W-120s,114.9,1,114.9,115.0,necrotic_like,
+715,UVC-6W-120s,157.9,1,157.9,158.0,necrotic_like,
+716,UVC-6W-120s,143.9,1,143.9,144.0,necrotic_like,
+717,UVC-6W-120s,199.9,1,199.9,200.0,necrotic_like,
+718,UVC-6W-120s,179.9,1,179.9,180.0,necrotic_like,
+719,UVC-6W-120s,179.9,1,179.9,180.0,necrotic_like,
+720,UVC-6W-120s,111.9,1,111.9,112.0,necrotic_like,
+721,UVC-6W-120s,174.9,1,174.9,175.0,necrotic_like,
+722,UVC-6W-120s,199.9,1,199.9,200.0,necrotic_like,
+723,UVC-6W-120s,137.9,1,137.9,138.0,necrotic_like,
+724,UVC-6W-120s,113.9,1,113.9,114.0,necrotic_like,
+725,UVC-6W-120s,174.9,1,174.9,175.0,necrotic_like,
+726,UVC-6W-120s,154.9,1,154.9,155.0,necrotic_like,
+727,UVC-6W-120s,214.9,1,214.9,215.0,necrotic_like,
+728,UVC-6W-120s,134.9,1,134.9,135.0,necrotic_like,
+729,UVC-6W-120s,199.9,1,199.9,200.0,necrotic_like,
+730,UVC-6W-120s,202.9,1,202.9,203.0,necrotic_like,
+731,UVC-6W-120s,164.9,1,164.9,165.0,necrotic_like,
+732,UVC-6W-120s,202.9,1,202.9,203.0,necrotic_like,
+733,UVC-6W-120s,189.9,1,189.9,190.0,necrotic_like,
+734,UVC-6W-120s,55.9,1,55.9,56.0,necrotic_like,
+735,UVC-6W-120s,74.9,1,74.9,75.0,necrotic_like,
+736,UVC-6W-120s,184.9,1,184.9,185.0,necrotic_like,
+737,UVC-6W-60s,284.5,1,284.5,285.0,necrotic_like,
+738,UVC-6W-60s,234.5,1,234.5,235.0,necrotic_like,
+739,UVC-6W-60s,289.5,1,289.5,290.0,necrotic_like,
+740,UVC-6W-60s,174.5,1,174.5,175.0,necrotic_like,
+741,UVC-6W-60s,700.0,0,,,,
+742,UVC-6W-60s,211.5,1,211.5,212.0,necrotic_like,exit_egg
+743,UVC-6W-60s,296.5,1,296.5,297.0,necrotic_like,
+744,UVC-6W-60s,116.5,1,116.5,117.0,necrotic_like,
+745,UVC-6W-60s,295.5,1,295.5,296.0,necrotic_like,
+746,UVC-6W-60s,267.5,1,267.5,268.0,necrotic_like,
+747,UVC-6W-60s,81.5,1,81.5,82.0,uncertain,death_after_hatch
+748,UVC-6W-60s,77.5,1,77.5,78.0,necrotic_like,
+749,UVC-6W-60s,255.5,1,255.5,256.0,necrotic_like,
+750,UVC-6W-60s,19.5,1,19.5,20.0,necrotic_like,
+751,UVC-6W-60s,249.5,1,249.5,250.0,necrotic_like,
+752,UVC-6W-60s,265.5,1,265.5,266.0,necrotic_like,
+753,UVC-6W-60s,309.5,1,309.5,310.0,necrotic_like,
+754,UVC-6W-60s,284.5,1,284.5,285.0,necrotic_like,
+755,UVC-6W-60s,293.5,1,293.5,294.0,necrotic_like,
+756,UVC-6W-60s,276.5,1,276.5,277.0,necrotic_like,
+757,UVC-6W-60s,314.5,1,314.5,315.0,necrotic_like,
+758,UVC-6W-60s,282.5,1,282.5,283.0,necrotic_like,
+759,UVC-6W-60s,329.5,1,329.5,330.0,necrotic_like,
+760,UVC-6W-60s,241.5,1,241.5,242.0,necrotic_like,
+761,UVC-6W-60s,249.5,1,249.5,250.0,necrotic_like,
+762,UVC-6W-60s,289.5,1,289.5,290.0,necrotic_like,
+763,UVC-6W-60s,299.5,1,299.5,300.0,necrotic_like,
+764,UVC-6W-60s,224.5,1,224.5,225.0,necrotic_like,
+765,UVC-6W-60s,289.5,1,289.5,290.0,necrotic_like,
+766,UVC-6W-60s,700.0,0,,,,
+767,UVC-6W-60s,235.5,1,235.5,236.0,necrotic_like,
+768,UVC-6W-60s,314.5,1,314.5,315.0,necrotic_like,
+769,UVC-6W-60s,318.5,1,318.5,319.0,necrotic_like,
+770,UVC-6W-60s,268.5,1,268.5,269.0,necrotic_like,
+771,UVC-6W-60s,259.5,1,259.5,260.0,necrotic_like,
+772,UVC-6W-60s,239.5,1,239.5,240.0,necrotic_like,
+773,UVC-6W-30s,289.5,1,289.5,290.0,necrotic_like,
+774,UVC-6W-30s,286.5,1,286.5,287.0,necrotic_like,
+775,UVC-6W-30s,289.5,1,289.5,290.0,necrotic_like,
+776,UVC-6W-30s,329.5,1,329.5,330.0,necrotic_like,exit_egg
+777,UVC-6W-30s,108.5,1,108.5,109.0,necrotic_like,
+778,UVC-6W-30s,177.5,1,177.5,178.0,necrotic_like,
+779,UVC-6W-30s,329.5,1,329.5,330.0,necrotic_like,
+780,UVC-6W-30s,439.5,1,439.5,440.0,necrotic_like,
+781,UVC-6W-30s,476.5,1,476.5,477.0,necrotic_like,
+782,UVC-6W-30s,299.5,1,299.5,300.0,necrotic_like,
+783,UVC-6W-30s,265.5,1,265.5,266.0,necrotic_like,exit_egg
+784,UVC-6W-30s,391.5,1,391.5,392.0,necrotic_like,
+785,UVC-6W-30s,363.5,1,363.5,364.0,necrotic_like,
+786,UVC-6W-30s,408.5,1,408.5,409.0,necrotic_like,
+787,UVC-6W-30s,251.5,1,251.5,252.0,necrotic_like,
+788,UVC-6W-30s,313.5,1,313.5,314.0,necrotic_like,
+789,UVC-6W-30s,317.5,1,317.5,318.0,necrotic_like,
+790,UVC-6W-30s,410.5,1,410.5,411.0,necrotic_like,
+791,UVC-6W-30s,374.5,1,374.5,375.0,necrotic_like,
+792,UVC-6W-30s,165.5,1,165.5,166.0,necrotic_like,
+793,UVC-6W-30s,219.5,1,219.5,220.0,necrotic_like,
+794,UVC-6W-30s,105.5,1,105.5,106.0,necrotic_like,
+795,UVC-6W-30s,231.5,1,231.5,232.0,necrotic_like,
+796,UVC-6W-30s,413.5,1,413.5,414.0,necrotic_like,
+797,UVC-6W-30s,216.5,1,216.5,217.0,necrotic_like,
+798,UVC-6W-30s,241.5,1,241.5,242.0,necrotic_like,
+799,UVC-6W-30s,283.5,1,283.5,284.0,necrotic_like,
+800,UVC-6W-30s,282.5,1,282.5,283.0,necrotic_like,
+801,UVC-6W-30s,362.5,1,362.5,363.0,necrotic_like,
+802,UVC-6W-30s,129.5,1,129.5,130.0,necrotic_like,
+803,UVC-6W-30s,276.5,1,276.5,277.0,necrotic_like,
+804,UVC-6W-30s,221.5,1,221.5,222.0,necrotic_like,
+805,UVC-6W-30s,129.5,1,129.5,130.0,necrotic_like,
+806,UVC-6W-30s,289.5,1,289.5,290.0,necrotic_like,
+807,UVC-6W-30s,269.5,1,269.5,270.0,necrotic_like,
+808,UVC-6W-30s,273.5,1,273.5,274.0,necrotic_like,
+809,UVC-6W-30s,181.5,1,181.5,182.0,uncertain,death_after_hatch
+810,UVC-6W-30s,180.5,1,180.5,181.0,necrotic_like,
+811,UVC-6W-30s,182.5,1,182.5,183.0,uncertain,death_after_hatch

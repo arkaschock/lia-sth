@@ -1,0 +1,8 @@
+group,n_total,n_excluded_no_larvae,pct_excluded_no_larvae,n_analyzed,n_Vacuolated (apoptosis-like),pct_Vacuolated (apoptosis-like),n_Lytic (necrosis-like),pct_Lytic (necrosis-like),n_Indeterminate/hatched,pct_Indeterminate/hatched,n_flag_death_after_hatch,pct_flag_death_after_hatch,n_flag_exit_egg,pct_flag_exit_egg,n_flag_terminal_twitching,pct_flag_terminal_twitching
+Control (pooled),97,0,0.0,97,0,0.0,3,3.1,12,12.4,9,9.3,1,1.0,0,0.0
+UVC-6W-600s,39,0,0.0,39,0,0.0,39,100.0,0,0.0,0,0.0,12,30.8,2,5.1
+UVC-6W-300s,35,0,0.0,35,0,0.0,35,100.0,0,0.0,0,0.0,0,0.0,35,100.0
+UVC-6W-180s,36,0,0.0,36,0,0.0,35,97.2,1,2.8,1,2.8,9,25.0,34,94.4
+UVC-6W-120s,36,0,0.0,36,0,0.0,36,100.0,0,0.0,0,0.0,0,0.0,0,0.0
+UVC-6W-60s,36,0,0.0,36,0,0.0,33,91.7,1,2.8,1,2.8,1,2.8,0,0.0
+UVC-6W-30s,39,0,0.0,39,0,0.0,37,94.9,2,5.1,2,5.1,2,5.1,0,0.0

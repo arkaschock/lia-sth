@@ -1,0 +1,6 @@
+group,group_display,kind,n_total,n_valid_non_degenerated,n_any_stage_time,n_t_2c,n_t_4c,n_t_bean,n_t_move,outcomes_total,outcomes_valid
+pooled_control,Pooled control,control,97,93,93,93,93,93,93,"{'l3_reached': np.int64(93), 'degenerated': np.int64(4)}",{'l3_reached': np.int64(93)}
+800nm_pulsed_120s,800nm pulsed 120s,treatment,36,35,35,35,35,35,35,"{'l3_reached': np.int64(35), 'degenerated': np.int64(1)}",{'l3_reached': np.int64(35)}
+shg_10mW_2s,400nm SHG 10mW 2s,treatment,36,35,21,21,18,17,16,"{'l3_reached': np.int64(17), 'arrested': np.int64(16), 'leak': np.int64(2), 'degenerated': np.int64(1)}","{'l3_reached': np.int64(17), 'arrested': np.int64(16), 'leak': np.int64(2)}"
+uvc_6W_2s,UVC 6W 2s,treatment,36,31,31,31,31,31,31,"{'l3_reached': np.int64(31), 'degenerated': np.int64(5)}",{'l3_reached': np.int64(31)}
+uvc_6W_5s,UVC 6W 5s,treatment,36,33,29,29,29,27,27,"{'l3_reached': np.int64(27), 'arrested': np.int64(6), 'degenerated': np.int64(3)}","{'l3_reached': np.int64(27), 'arrested': np.int64(6)}"

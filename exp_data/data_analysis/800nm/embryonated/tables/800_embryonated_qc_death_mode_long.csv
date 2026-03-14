@@ -1,0 +1,13 @@
+group,Terminal phenotype,n,pct
+Control (pooled),Vacuolated (apoptosis-like),0,0.0
+Control (pooled),Lytic (necrosis-like),3,3.1
+Control (pooled),Indeterminate/hatched,12,12.4
+800-pulsed-330mW-120s,Vacuolated (apoptosis-like),2,8.3
+800-pulsed-330mW-120s,Lytic (necrosis-like),17,70.8
+800-pulsed-330mW-120s,Indeterminate/hatched,4,16.7
+800-pulsed-330mW-60s,Vacuolated (apoptosis-like),0,0.0
+800-pulsed-330mW-60s,Lytic (necrosis-like),2,6.5
+800-pulsed-330mW-60s,Indeterminate/hatched,4,12.9
+800-cw-330mW-120s,Vacuolated (apoptosis-like),0,0.0
+800-cw-330mW-120s,Lytic (necrosis-like),1,4.5
+800-cw-330mW-120s,Indeterminate/hatched,0,0.0

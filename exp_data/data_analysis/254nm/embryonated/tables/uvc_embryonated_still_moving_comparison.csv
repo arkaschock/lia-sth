@@ -1,0 +1,8 @@
+Treatment,n_total,n_still_moving,% still moving
+Control (pooled),97,82,84.5
+UVC-6W-600s,39,0,0.0
+UVC-6W-300s,35,0,0.0
+UVC-6W-180s,36,0,0.0
+UVC-6W-120s,36,0,0.0
+UVC-6W-60s,36,2,5.6
+UVC-6W-30s,39,0,0.0

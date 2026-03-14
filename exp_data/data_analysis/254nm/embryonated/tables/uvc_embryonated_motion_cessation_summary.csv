@@ -1,0 +1,7 @@
+treatment,n_total_excluding_no_larvae,n_continued_motion,pct_continued_motion,n_stopped_in_egg,pct_stopped_in_egg,median_dt_motion_stop_h,q1_dt_motion_stop_h,q3_dt_motion_stop_h,iqr_dt_motion_stop_h
+UVC-6W-600s,39,0,0.0,39,100.0,0.0,0.0,0.0,0.00 to 0.00
+UVC-6W-300s,35,0,0.0,35,100.0,95.5,71.5,114.0,71.50 to 114.00
+UVC-6W-180s,36,0,0.0,35,97.2,147.8,128.8,169.8,128.80 to 169.80
+UVC-6W-120s,36,0,0.0,36,100.0,169.9,137.15,199.9,137.15 to 199.90
+UVC-6W-60s,36,2,5.6,33,91.7,268.5,239.5,293.5,239.50 to 293.50
+UVC-6W-30s,39,0,0.0,37,94.9,283.5,221.5,329.5,221.50 to 329.50

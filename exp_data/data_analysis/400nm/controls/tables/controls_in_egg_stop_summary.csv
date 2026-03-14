@@ -1,0 +1,2 @@
+n_total_controls,n_stopped_motion_inside_egg,pct_stopped_motion_inside_egg,median_dt_motion_stop_h,q1_dt_motion_stop_h,q3_dt_motion_stop_h,iqr_dt_motion_stop_h
+97,6,6.2,583.0,219.75,593.75,219.75 to 593.75

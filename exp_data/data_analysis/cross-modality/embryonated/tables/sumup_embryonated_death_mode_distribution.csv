@@ -1,0 +1,58 @@
+treatment,modality,n_total_analyzed,n,pct,Terminal phenotype
+800-pulsed-330mW-120s,800nm,24,2,8.3,Vacuolated (apoptosis-like)
+800-pulsed-330mW-120s,800nm,24,17,70.8,Lytic (necrosis-like)
+800-pulsed-330mW-120s,800nm,24,4,16.7,Indeterminate/hatched
+800-pulsed-330mW-60s,800nm,31,0,0.0,Vacuolated (apoptosis-like)
+800-pulsed-330mW-60s,800nm,31,2,6.5,Lytic (necrosis-like)
+800-pulsed-330mW-60s,800nm,31,4,12.9,Indeterminate/hatched
+800-cw-330mW-120s,800nm,22,0,0.0,Vacuolated (apoptosis-like)
+800-cw-330mW-120s,800nm,22,1,4.5,Lytic (necrosis-like)
+800-cw-330mW-120s,800nm,22,0,0.0,Indeterminate/hatched
+400-SHG-10mW-5s,SHG,36,0,0.0,Vacuolated (apoptosis-like)
+400-SHG-10mW-5s,SHG,36,18,50.0,Lytic (necrosis-like)
+400-SHG-10mW-5s,SHG,36,11,30.6,Indeterminate/hatched
+400-SHG-10mW-10s,SHG,36,2,5.6,Vacuolated (apoptosis-like)
+400-SHG-10mW-10s,SHG,36,21,58.3,Lytic (necrosis-like)
+400-SHG-10mW-10s,SHG,36,8,22.2,Indeterminate/hatched
+400-SHG-15mW-5s,SHG,38,34,89.5,Vacuolated (apoptosis-like)
+400-SHG-15mW-5s,SHG,38,1,2.6,Lytic (necrosis-like)
+400-SHG-15mW-5s,SHG,38,2,5.3,Indeterminate/hatched
+400-SHG-15mW-10s,SHG,38,38,100.0,Vacuolated (apoptosis-like)
+400-SHG-15mW-10s,SHG,38,0,0.0,Lytic (necrosis-like)
+400-SHG-15mW-10s,SHG,38,0,0.0,Indeterminate/hatched
+400-SHG-20mW-10s,SHG,37,37,100.0,Vacuolated (apoptosis-like)
+400-SHG-20mW-10s,SHG,37,0,0.0,Lytic (necrosis-like)
+400-SHG-20mW-10s,SHG,37,0,0.0,Indeterminate/hatched
+400-SHG-30mW-5s,SHG,39,39,100.0,Vacuolated (apoptosis-like)
+400-SHG-30mW-5s,SHG,39,0,0.0,Lytic (necrosis-like)
+400-SHG-30mW-5s,SHG,39,0,0.0,Indeterminate/hatched
+400-SHG-30mW-10s,SHG,40,40,100.0,Vacuolated (apoptosis-like)
+400-SHG-30mW-10s,SHG,40,0,0.0,Lytic (necrosis-like)
+400-SHG-30mW-10s,SHG,40,0,0.0,Indeterminate/hatched
+400-SHG-40mW-5s,SHG,36,35,97.2,Vacuolated (apoptosis-like)
+400-SHG-40mW-5s,SHG,36,1,2.8,Lytic (necrosis-like)
+400-SHG-40mW-5s,SHG,36,0,0.0,Indeterminate/hatched
+400-SHG-40mW-10s,SHG,38,38,100.0,Vacuolated (apoptosis-like)
+400-SHG-40mW-10s,SHG,38,0,0.0,Lytic (necrosis-like)
+400-SHG-40mW-10s,SHG,38,0,0.0,Indeterminate/hatched
+400-SHG-40mW-30s,SHG,40,40,100.0,Vacuolated (apoptosis-like)
+400-SHG-40mW-30s,SHG,40,0,0.0,Lytic (necrosis-like)
+400-SHG-40mW-30s,SHG,40,0,0.0,Indeterminate/hatched
+UVC-6W-600s,UVC,39,0,0.0,Vacuolated (apoptosis-like)
+UVC-6W-600s,UVC,39,39,100.0,Lytic (necrosis-like)
+UVC-6W-600s,UVC,39,0,0.0,Indeterminate/hatched
+UVC-6W-300s,UVC,35,0,0.0,Vacuolated (apoptosis-like)
+UVC-6W-300s,UVC,35,35,100.0,Lytic (necrosis-like)
+UVC-6W-300s,UVC,35,0,0.0,Indeterminate/hatched
+UVC-6W-180s,UVC,36,0,0.0,Vacuolated (apoptosis-like)
+UVC-6W-180s,UVC,36,35,97.2,Lytic (necrosis-like)
+UVC-6W-180s,UVC,36,1,2.8,Indeterminate/hatched
+UVC-6W-120s,UVC,36,0,0.0,Vacuolated (apoptosis-like)
+UVC-6W-120s,UVC,36,36,100.0,Lytic (necrosis-like)
+UVC-6W-120s,UVC,36,0,0.0,Indeterminate/hatched
+UVC-6W-60s,UVC,36,0,0.0,Vacuolated (apoptosis-like)
+UVC-6W-60s,UVC,36,33,91.7,Lytic (necrosis-like)
+UVC-6W-60s,UVC,36,1,2.8,Indeterminate/hatched
+UVC-6W-30s,UVC,39,0,0.0,Vacuolated (apoptosis-like)
+UVC-6W-30s,UVC,39,37,94.9,Lytic (necrosis-like)
+UVC-6W-30s,UVC,39,2,5.1,Indeterminate/hatched

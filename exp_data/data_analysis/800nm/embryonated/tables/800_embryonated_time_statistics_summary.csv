@@ -1,0 +1,8 @@
+Comparison,Statistical Test Used,Test Statistic,p_raw,p_bonf,significant_alpha_0_005,sig
+Overall (all groups),Kruskal-Wallis H,6.741865663241503,0.08059672314758806,,False,ns
+800-pulsed-330mW-120s vs. 800-pulsed-330mW-60s,Mann-Whitney U,26.0,0.05225320257516016,0.31351921545096095,False,ns
+800-pulsed-330mW-120s vs. 800-cw-330mW-120s,Mann-Whitney U,19.0,0.1184329289166719,0.7105975735000314,False,ns
+800-pulsed-330mW-60s vs. 800-cw-330mW-120s,Mann-Whitney U,5.0,0.5714285714285714,1.0,False,ns
+800-pulsed-330mW-120s vs. Control (pooled),Mann-Whitney U,35.0,0.1712258893247669,1.0,False,ns
+800-pulsed-330mW-60s vs. Control (pooled),Mann-Whitney U,17.0,0.9372294372294373,1.0,False,ns
+800-cw-330mW-120s vs. Control (pooled),Mann-Whitney U,0.0,0.2857142857142857,1.0,False,ns

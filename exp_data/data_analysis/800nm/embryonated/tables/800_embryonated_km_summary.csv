@@ -1,0 +1,5 @@
+group,n_total,n_events,n_censored,median_survival_h
+Control (pooled),97,15,82,inf
+800-pulsed-330mW-120s,24,23,1,279.6
+800-pulsed-330mW-60s,31,6,25,inf
+800-cw-330mW-120s,22,1,21,inf

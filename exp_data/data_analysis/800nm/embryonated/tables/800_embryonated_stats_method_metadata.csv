@@ -1,0 +1,2 @@
+selected_test_family,pairwise_alpha_report,pairwise_n_comparisons,normality_decision_rule
+non_parametric,0.005,6,parametric only if all groups n>=3 and Shapiro p>0.05

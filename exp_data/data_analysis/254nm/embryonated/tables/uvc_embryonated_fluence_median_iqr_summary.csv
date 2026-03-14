@@ -1,0 +1,6 @@
+treatment,exposure_s,nominal_irradiance_mW_cm2,nominal_fluence_mJ_cm2,n_stopped_in_egg,median_dt_motion_stop_h,q1_dt_motion_stop_h,q3_dt_motion_stop_h,iqr_dt_motion_stop_h
+UVC-6W-300s,300.0,2.11,633.0,35,95.5,71.5,114.0,42.5
+UVC-6W-180s,180.0,2.11,379.8,35,147.8,128.8,169.8,41.0
+UVC-6W-120s,120.0,2.11,253.2,36,169.9,137.15,199.9,62.75
+UVC-6W-60s,60.0,2.11,126.6,33,268.5,239.5,293.5,54.0
+UVC-6W-30s,30.0,2.11,63.3,37,283.5,221.5,329.5,108.0

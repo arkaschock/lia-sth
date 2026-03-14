@@ -1,0 +1,5 @@
+group,n_stopped_in_egg,shapiro_W,shapiro_p,normal_by_shapiro_p_gt_0_05,note
+Control (pooled),6,0.7293070561319739,0.012402983902815383,False,
+800-pulsed-330mW-120s,19,0.9064840488674928,0.06382793696973832,True,
+800-pulsed-330mW-60s,6,0.788210441604283,0.04591699135260827,False,
+800-cw-330mW-120s,1,,,,Shapiro requires n>=3

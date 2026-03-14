@@ -1,0 +1,6 @@
+metric,value
+rows_total_in_master,811
+rows_with_control_eq_1,97
+rows_in_pooled_named_controls,97
+rows_control_eq_1_not_in_named_controls,0
+rows_with_t_motion_stop_h_gt_700_in_pooled_controls,0

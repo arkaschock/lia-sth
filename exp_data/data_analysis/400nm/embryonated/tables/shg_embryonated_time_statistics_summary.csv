@@ -1,0 +1,12 @@
+Comparison,Statistical Test Used,Test Statistic,p_raw,p_bonf,significant_alpha_0_005,sig
+Overall (included groups),Kruskal-Wallis H,41.418477983747756,2.2015896816800743e-08,,True,***
+Control (pooled) vs. 400-SHG-10mW-5s,Mann-Whitney U,69.0,0.333605585641479,1.0,False,ns
+Control (pooled) vs. 400-SHG-10mW-10s,Mann-Whitney U,85.0,0.4139573070607553,1.0,False,ns
+Control (pooled) vs. 400-SHG-15mW-5s,Mann-Whitney U,142.0,0.22844403763167476,1.0,False,ns
+Control (pooled) vs. 400-SHG-15mW-10s,Mann-Whitney U,198.0,0.003991133406885138,0.039911334068851376,False,ns
+400-SHG-10mW-5s vs. 400-SHG-10mW-10s,Mann-Whitney U,244.0,0.33760437570675306,1.0,False,ns
+400-SHG-10mW-5s vs. 400-SHG-15mW-5s,Mann-Whitney U,442.0,0.031060198163829253,0.31060198163829256,False,ns
+400-SHG-10mW-5s vs. 400-SHG-15mW-10s,Mann-Whitney U,616.5,1.3928671912921136e-06,1.3928671912921136e-05,True,***
+400-SHG-10mW-10s vs. 400-SHG-15mW-5s,Mann-Whitney U,492.5,0.2253736333784484,1.0,False,ns
+400-SHG-10mW-10s vs. 400-SHG-15mW-10s,Mann-Whitney U,744.5,4.509511933767496e-06,4.509511933767496e-05,True,***
+400-SHG-15mW-5s vs. 400-SHG-15mW-10s,Mann-Whitney U,1115.5,2.9898428780300286e-06,2.9898428780300285e-05,True,***
