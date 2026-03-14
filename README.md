@@ -6,6 +6,8 @@ This repository accompanies the thesis:
 
 The repository is intended as supporting material for the experimental workflow, raw and derived data organization, computer-vision-assisted irradiation pipeline, and downstream statistical analysis used in the study.
 
+Repository DOI (Zenodo): [10.5281/zenodo.19020088](https://doi.org/10.5281/zenodo.19020088)
+
 ## Overview
 
 The repository contains four main components:
@@ -246,7 +248,15 @@ It also uses **Ultralytics YOLOv11** through the `ultralytics` package and the t
 
 ## Citation
 
-If you use this repository as supporting material, please cite the associated thesis.
+If you use this repository as supporting material, please cite the repository archive DOI and, where relevant, the associated thesis.
+
+Repository archive DOI:
+
+> 10.5281/zenodo.19020088
+
+Persistent link:
+
+> https://doi.org/10.5281/zenodo.19020088
 
 Suggested thesis title for citation:
 
