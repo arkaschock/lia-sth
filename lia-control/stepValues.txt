@@ -1,0 +1,35 @@
+100µm = 207.67px
+
+100 steps = ~250µm
+
+80 steps = ~200µm
+
+1 step = 2,5µm = 5,1925px
+1px = 0,1925 steps
+
+framestep: +2048px = +394,24 steps
+
+-------------------------------
+Magnification x300
+
+56 steps = 140µm
+1 step = 2,5µm
+100µm = 124px
+1µm = 1,24px
+1 step = 3,1px
+1px = 0,323 steps
+
+standard start position:
+X: -1433 steps, -242 microsteps
+Y: 4490 steps, 73 microsteps
+
+standard end position:
+X: 24835 steps, 165 microsteps
+Y: 4490 steps, 73 microsteps
+
+-------------------------------
+
+positive value on x-axis: movement to the right
+negative value on x-axis: movement to the left
+positive value on y-axis: movement down
+negative value on y-axis: movement up
